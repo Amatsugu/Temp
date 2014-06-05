@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Mono Classes\MainMenu.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Mono Classes\MainMenu.cs" Line="771" Column="50" />
+      <File FileName="Assets\Scripts\Game Classes\DataMap.cs" Line="6" Column="28" />
+      <File FileName="Assets\Scripts\Game Classes\DefaultData.cs" Line="63" Column="37" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

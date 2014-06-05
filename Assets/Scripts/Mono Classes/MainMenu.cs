@@ -61,6 +61,7 @@ public class MainMenu : MonoBehaviour {
 	private bool _fullscreen;
 	private bool _aniso;
 	private int _texQuality;
+	private List<string> _texQualityNames = new List<string>();
 
 	// Use this for initialization
 	void Start () 
@@ -91,6 +92,12 @@ public class MainMenu : MonoBehaviour {
 	}
 	void LoadSettings()
 	{
+		_texQualityNames.Clear();
+		_texQualityNames.Add("Full");
+		_texQualityNames.Add("Half");
+		_texQualityNames.Add("Quarter");
+		_texQualityNames.Add("Eight");
+
 		GameObject gameReg = GameObject.Find("_GameRegistry");
 		_data = gameReg.GetComponent<DataMap>();
 		_controls = gameReg.GetComponent<ControlMap>();
@@ -636,16 +643,16 @@ public class MainMenu : MonoBehaviour {
 			_windowScrollPos[4] = GUI.BeginScrollView(new Rect(left, top, width, 500), _windowScrollPos[4], new Rect(0,0, width, 500));
 			GUI.Label(new Rect(0, (lh + pad)*0, 500, lh), "Player Name");
 			_playerName = GUI.TextField(new Rect(0, (lh + pad)*1, 250, lh), _playerName);
-			_mouseMode = GUI.Toggle(new Rect(0, (lh + pad)*2, 250, lh), _mouseMode, "Mouse Mode");
+			_mouseMode = GUI.Toggle(new Rect(0, (lh + pad)*2, 250, lh), _mouseMode, "Mouse Controlled Mode");
 			GUI.EndScrollView();
-			if(GUI.Button(new Rect(left, 410, width/2, 64), "Apply"))
+			if(GUI.Button(new Rect(left, 420, width/2, 64), "Apply"))
 			{
 				PlayerPrefs.SetString("name", _playerName);
 				_data.RegisterData("MouseMode", _mouseMode);
 				SaveSettings();
 			}
 
-			if(GUI.Button(new Rect((width/2)+left+pad, 410, width/2, 64), "Revert"))
+			if(GUI.Button(new Rect((width/2)+left+pad, 420, width/2, 64), "Revert"))
 			{
 				LoadSettings();
 				_playerName = PlayerPrefs.GetString("name");
@@ -663,14 +670,14 @@ public class MainMenu : MonoBehaviour {
 			GUI.Label(new Rect(0, (lh + pad)*4, 500, lh), "Master Volume - " + Round(_sfxVol, 100));
 			_sfxVol = GUI.HorizontalSlider(new Rect(0, (lh + pad)*5, 250, lh), _sfxVol, 0, 100);
 			GUI.EndScrollView();
-			if(GUI.Button(new Rect(left, 410, width/2, 64), "Apply"))
+			if(GUI.Button(new Rect(left, 420, width/2, 64), "Apply"))
 			{
 				_data.RegisterData("BGM_Vol", _bgmVol);
 				_data.RegisterData("SFX_Vol", _sfxVol);
 				_data.RegisterData("Master_Vol", _masterVol);
 				SaveSettings();
 			}
-			if(GUI.Button(new Rect((width/2)+left+pad, 410, width/2, 64), "Revert"))
+			if(GUI.Button(new Rect((width/2)+left+pad, 420, width/2, 64), "Revert"))
 			{
 				LoadSettings();
 				_bgmVol = _data.GetFloat("BGM_Vol");
@@ -684,10 +691,10 @@ public class MainMenu : MonoBehaviour {
 			GUI.skin = list;
 			if(_resolutions == null)
 				_resolutions = Screen.resolutions;
-			_windowScrollPos[4] = GUI.BeginScrollView(new Rect(left, top, width, 500), _windowScrollPos[4], new Rect(0,0, width, 500));
+			_windowScrollPos[4] = GUI.BeginScrollView(new Rect(left, top, width, 340), _windowScrollPos[4], new Rect(0,0, width-16,  ((lh + pad)*10f)+lh+25));
 			_vSync = GUI.Toggle(new Rect(0, (lh + pad)*0, 250, lh), _vSync, "VSync");
 			GUI.Label(new Rect(0, (lh + pad)*1f, 250, lh), "Resolution");
-			if(GUI.Button(new Rect(0, ((lh + pad)*1.5f), 350, 64), _resolutions[_resIndex].width + "x" + _resolutions[_resIndex].height + " " + _resolutions[_resIndex].refreshRate + "Hz"))
+			if(GUI.Button(new Rect(0, ((lh + pad)*1.5f), 400, 64), _resolutions[_resIndex].width + "x" + _resolutions[_resIndex].height + " " + _resolutions[_resIndex].refreshRate + "Hz"))
 			{
 				_resIndex++;
 				if(_resIndex > _resolutions.Length-1)
@@ -696,8 +703,28 @@ public class MainMenu : MonoBehaviour {
 				}
 			}
 			_fullscreen = GUI.Toggle(new Rect(0, (lh + pad)*3f, 400, lh), _fullscreen, "Fullscreen");
+			GUI.Label(new Rect(0, (lh + pad)*4f, 400, lh),"Anti-Ailiasing");
+			if(GUI.Button(new Rect(0, (lh + pad)*4.5f, 400, 64), _AA+"x"))
+			{
+				if(_AA == 0)
+					_AA = 1;
+				_AA *= 2;
+				if(_AA > 8)
+					_AA = 0;
+			}
+			_aniso = GUI.Toggle(new Rect(0, (lh + pad)*6f, 400, lh), _aniso, "Anisotropic Filtering");
+			GUI.Label(new Rect(0, (lh + pad)*7f, 400, lh),"Texture Quality");
+			if(GUI.Button(new Rect(0, (lh + pad)*7.5f, 400, 64), _texQualityNames[_texQuality]))
+			{
+				_texQuality++;
+				if(_texQuality > 3)
+					_texQuality = 0;
+			}
+			GUI.Label(new Rect(0, (lh + pad)*9f, 400, lh),"Pixel Light Count: " + _pixelLights);
+			_pixelLights = (int)GUI.HorizontalSlider(new Rect(20, (lh + pad)*10f, 350, lh), _pixelLights, 1, 100);
+
 			GUI.EndScrollView();
-			if(GUI.Button(new Rect(left, 410, width/3, 64), "Apply"))
+			if(GUI.Button(new Rect(left, 420, width/2, 64), "Apply"))
 			{
 				_data.RegisterData("VSync", _vSync);
 				_data.RegisterData("Res_Width", _resolutions[_resIndex].width);
@@ -707,9 +734,13 @@ public class MainMenu : MonoBehaviour {
 				_data.RegisterData("Res_Refresh", _resolutions[_resIndex].refreshRate);
 				_resRefresh = _resolutions[_resIndex].refreshRate;
 				_data.RegisterData("Fullscreen", _fullscreen);
+				_data.RegisterData("Anti_Aliasing", _AA);
+				_data.RegisterData("Aniso_Filtering", _aniso);
+				_data.RegisterData("Tex_Quality", _texQuality);
+				_data.RegisterData("PixelLights", _pixelLights);
 				SaveSettings();
 			}
-			if(GUI.Button(new Rect((width/2)+left+pad, 410, width/2, 64), "Revert"))
+			if(GUI.Button(new Rect((width/2)+left+pad, 420, width/2, 64), "Revert"))
 			{
 				LoadSettings();
 				//_vSync = _data.GetBool("VSync");
@@ -731,6 +762,13 @@ public class MainMenu : MonoBehaviour {
 			QualitySettings.vSyncCount = 1;
 		else
 			QualitySettings.vSyncCount = 0;
+		QualitySettings.antiAliasing = _AA;
+		if(_aniso)
+			QualitySettings.anisotropicFiltering = AnisotropicFiltering.Enable;
+		else
+			QualitySettings.anisotropicFiltering = AnisotropicFiltering.Disable;
+		QualitySettings.masterTextureLimit = _texQuality;
+		QualitySettings.pixelLightCount = _pixelLights;
 	}
 
 	float Round(float n, float d)
