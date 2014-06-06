@@ -73,7 +73,7 @@ public class PlayerController : MonoBehaviour {
 				}
 			}else
 			{
-				if(Input.GetKey(_controls.GetKey("PerciseMove")))
+				if(Input.GetKey(_controls.GetKey("Percise Move")))
 				{
 					if(Input.GetKey(_controls.GetKey("Up")))
 					{

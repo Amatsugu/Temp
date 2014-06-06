@@ -43,7 +43,7 @@ public class DefaultData : MonoBehaviour{
 		_Controls.RegisterKey("Down", KeyCode.S);
 		_Controls.RegisterKey("Left", KeyCode.A);
 		_Controls.RegisterKey("Right", KeyCode.D);
-		_Controls.RegisterKey("PerciseMove", KeyCode.LeftShift);
+		_Controls.RegisterKey("Percise Move", KeyCode.LeftShift);
 		_Controls.RegisterKey("Pause", KeyCode.Escape);
 
 		_Controls.RegisterKey("Cancel", KeyCode.Escape);

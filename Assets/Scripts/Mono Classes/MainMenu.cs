@@ -43,6 +43,8 @@ public class MainMenu : MonoBehaviour {
 	private float _selectorSize;
 	private DataMap _data;
 	private ControlMap _controls;
+	private ControlMap _setControls;
+	private int _listeningTo = -1;
 	//Gampelay Settings
 	private bool _mouseMode = false;
 	//Audio Settings
@@ -101,6 +103,7 @@ public class MainMenu : MonoBehaviour {
 		GameObject gameReg = GameObject.Find("_GameRegistry");
 		_data = gameReg.GetComponent<DataMap>();
 		_controls = gameReg.GetComponent<ControlMap>();
+		_setControls = _controls;
 		//Gameplay
 		_mouseMode = _data.GetBool("MouseMode");
 		//Audio
@@ -747,7 +750,57 @@ public class MainMenu : MonoBehaviour {
 			}
 			
 		}
+		if(windowID == 8)
+		{
+			if(_listeningTo >= 0)
+			{
+				ListenToKeys();
+			}
+			lh = 64;
+			pad = 0;
+			GUI.skin = list;
+			_windowScrollPos[4] = GUI.BeginScrollView(new Rect(left, top, width, 340), _windowScrollPos[4], new Rect(0,0, width-16,  ((lh + pad)*_setControls.controlKeys.Count)));
+			for(int i = 0; i < _setControls.controlKeys.Count; i++)
+			{
+				GUI.Label(new Rect(0, (lh + pad)*(i), 250, lh), _setControls.controlNames[i]);
+				if(GUI.Button(new Rect(width/3.5f, (lh + pad)*(i), 250, lh), _setControls.controlKeys[i].ToString()))
+				{
+					_listeningTo = i;
+					Screen.lockCursor = true;
+				}
+			}
+			GUI.EndScrollView();
+			if(GUI.Button(new Rect(left, 420, width/2, 64), "Apply"))
+			{
+				_controls = _setControls;
+				SaveSettings();
+			}
+			if(GUI.Button(new Rect((width/2)+left+pad, 420, width/2, 64), "Revert"))
+			{
+				_controls.LoadData();
+				LoadSettings();
+			}
+		}
 	}
+
+	void ListenToKeys()
+	{
+		Event cur = Event.current;
+		if(cur.isKey)
+		{
+			KeyCode curKey = cur.keyCode;
+			if(curKey == KeyCode.None)
+			{
+				Screen.lockCursor = false;
+				_listeningTo = -1;
+				return;
+			}
+			_setControls.RegisterKey(_setControls.controlNames[_listeningTo], curKey);
+			_listeningTo = -1;
+			Screen.lockCursor = false;
+		}
+	}
+
 	void SaveSettings()
 	{
 		_data.SaveData();

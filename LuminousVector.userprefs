@@ -1,10 +1,10 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Mono Classes\MainMenu.cs">
     <Files>
-      <File FileName="Assets\Scripts\Mono Classes\MainMenu.cs" Line="771" Column="50" />
+      <File FileName="Assets\Scripts\Mono Classes\MainMenu.cs" Line="758" Column="5" />
       <File FileName="Assets\Scripts\Game Classes\DataMap.cs" Line="6" Column="28" />
-      <File FileName="Assets\Scripts\Game Classes\DefaultData.cs" Line="63" Column="37" />
+      <File FileName="Assets\Scripts\Game Classes\DefaultData.cs" Line="60" Column="3" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
