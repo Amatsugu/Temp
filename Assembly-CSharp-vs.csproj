@@ -62,6 +62,7 @@
      <Compile Include="Assets\Scripts\Mono Classes\MainMenu.cs" />
      <Compile Include="Assets\Scripts\Mono Classes\ObjectPoolerWorld.cs" />
      <Compile Include="Assets\Scripts\Mono Classes\PlayerController.cs" />
+     <Compile Include="Assets\Scripts\Mono Classes\PlayerHUD.cs" />
      <Compile Include="Assets\Scripts\Mono Classes\PowerUpObject.cs" />
      <Compile Include="Assets\Scripts\Mono Classes\PropController.cs" />
      <Compile Include="Assets\Scripts\Mono Classes\PropSpawner.cs" />
@@ -74,6 +75,13 @@
      <None Include="Assets\Materials\Shaders\Mask.shader" />
      <None Include="Assets\Materials\Shaders\AlphaTest.shader" />
      <None Include="Assets\Standard Assets\Tessellation Shaders\BumpedSpecularDisplacement.shader" />
+ <Reference Include="Assembly-UnityScript-firstpass">
+ <HintPath>Library\ScriptAssemblies\Assembly-UnityScript-firstpass.dll</HintPath>
+ </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="Assembly-CSharp-firstpass-vs.csproj">
+      <Project>{D2C9710D-44E4-9D43-6D41-DCD69309448A}</Project>      <Name>Assembly-CSharp-firstpass-vs</Name>    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

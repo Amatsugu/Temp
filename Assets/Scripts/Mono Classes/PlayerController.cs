@@ -14,8 +14,6 @@ public class PlayerController : MonoBehaviour {
 	public float bulletSpeed = 1000;
 	public float damage = 10;
 	public float maxHealth = 100;
-	public Texture2D healthBar;
-	public GUISkin skin;
 	public GameObject explosion;
 	public float paralaxAmmount = 2;
 	public bool canShoot = true;
@@ -30,15 +28,17 @@ public class PlayerController : MonoBehaviour {
 	private Transform _cam;
 	private ObjectPooler _basicBulletPool;
 	private float _powerEndTime;
-	private PowerUp _curPower;
+	private int _curPower;
 	private BeamGunner _bGunner;
 	private bool _isPaused = false;
 	private bool _mouseMode;
+	private List<PowerUp> _powers =  new List<PowerUp>(4);
+	private List<float> _powerValues = new List<float>(4);
 
 	// Use this for initialization
 	void Start () 
 	{
-		_curPower = PowerUp.None;
+		_curPower = 0;
 		_bGunner = GetComponent<BeamGunner>();
 		CreateBulletPool();
 		_controls = GameObject.Find("_GameRegistry").GetComponent<ControlMap>();
@@ -122,14 +122,20 @@ public class PlayerController : MonoBehaviour {
 					_nextFireTime = Time.time + fireRate;
 				}
 			}
-			if(_curPower != PowerUp.None)
+			_curPower += (int)Input.GetAxisRaw("Mouse ScrollWheel");
+			if(_curPower > 3)
+				_curPower = 0;
+			if(_curPower < 0)
+				_curPower = 3;
+			if(Input.GetKeyDown(_controls.GetKey("Ability")))
 			{
-				if(_powerEndTime <= Time.time)
-				{
-					_curPower = PowerUp.None;
-					canShoot = true;
-					_bGunner.isFiring = false;
-				}
+				UsePower();
+			}
+			//Debug.Log(_curPower);
+			if(_powerEndTime <= Time.time)
+			{
+				canShoot = true;
+				_bGunner.isFiring = false;
 			}
 			if(_curPosition.y < 0)
 			{
@@ -141,12 +147,6 @@ public class PlayerController : MonoBehaviour {
 			}
 			_cam.position = new Vector3(_cam.position.x, _paralax, _cam.position.z);
 		}
-	}
-
-	void OnGUI()
-	{
-		GUI.skin = skin;
-		GUI.DrawTexture(new Rect(0,0, Screen.width*(_health/maxHealth), 16), healthBar);
 	}
 
 	//Bullet Fire
@@ -167,7 +167,33 @@ public class PlayerController : MonoBehaviour {
 		}
 	}
 
-	public void ApplyPower(PowerUp type, float value)
+	public void AddPower(PowerUp type, float value)
+	{
+		if(_powers.Count < 4)
+		{
+			_powers.Add(type);
+			_powerValues.Add(value);
+		}else
+		{
+			UsePower(type, value);
+		}
+	}
+
+	void UsePower()
+	{
+		UsePower(_curPower);
+	}
+
+	void UsePower(int power)
+	{
+		PowerUp type = _powers[power];
+		float value = _powerValues[power];
+		_powers.RemoveAt(power);
+		_powerValues.RemoveAt(power);
+		UsePower(type, value);
+	}
+
+	void UsePower(PowerUp type, float value)
 	{
 		if(type == PowerUp.Health)
 		{
@@ -177,7 +203,6 @@ public class PlayerController : MonoBehaviour {
 		}else if(type == PowerUp.Laser)
 		{
 			_powerEndTime = Time.time + value;
-			_curPower = type;
 			canShoot = false;
 			_bGunner.isFiring = true;
 			_bGunner.damage = damage * 100;
@@ -208,6 +233,21 @@ public class PlayerController : MonoBehaviour {
 	{
 		_isPaused = false;
 		_nextFireTime += (Time.time- _pauseTime);
+	}
+
+	public float GetHealth()
+	{
+		return _health;
+	}
+
+	public List<PowerUp> GetPowers()
+	{
+		return _powers;
+	}
+
+	public int GetSelectedPower()
+	{
+		return _curPower;
 	}
 
 	void ClampPos()

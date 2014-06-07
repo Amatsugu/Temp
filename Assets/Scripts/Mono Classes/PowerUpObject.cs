@@ -27,7 +27,7 @@ public class PowerUpObject : MonoBehaviour {
 
 	void Apply()
 	{
-		_player.GetComponent<PlayerController>().ApplyPower(type, value);
+		_player.GetComponent<PlayerController>().AddPower(type, value);
 		Destroy(gameObject);
 	}
 
