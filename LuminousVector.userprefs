@@ -1,10 +1,10 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Mono Classes\PlayerController.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Mono Classes\PlayerHUD.cs">
     <Files>
-      <File FileName="Assets\Scripts\Mono Classes\PlayerHUD.cs" Line="50" Column="4" />
-      <File FileName="Assets\Scripts\Mono Classes\PlayerController.cs" Line="134" Column="27" />
-      <File FileName="Assets\Scripts\Game Classes\ControlMap.cs" Line="6" Column="32" />
+      <File FileName="Assets\Scripts\Mono Classes\PlayerHUD.cs" Line="27" Column="18" />
+      <File FileName="Assets\Scripts\Mono Classes\PlayerController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Game Classes\ControlMap.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

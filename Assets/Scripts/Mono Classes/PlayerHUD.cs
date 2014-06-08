@@ -9,6 +9,7 @@ public class PlayerHUD : MonoBehaviour {
 	public Texture2D hudFrame;
 	public Texture2D healthBar;
 	public Texture2D selector;
+	public List<Texture2D> icons;
 	public float hudScale = 1;
 	public GUISkin skin;
 
@@ -40,7 +41,7 @@ public class PlayerHUD : MonoBehaviour {
 		GUI.DrawTexture(new Rect((95-16) * hudScale, (57 + (38*curSel) + (198 * curSel) - 16)*hudScale, selector.width * hudScale, sH * hudScale), selector);
 		for(int i = 0; i < powers.Count; i++)
 		{
-			GUI.Box(new Rect(95 * hudScale, (57 + (38*i) + (198 * i))*hudScale, 198 * hudScale, 198 * hudScale), powers[i].ToString());
+			GUI.DrawTexture(new Rect(95 * hudScale, (57 + (38*i) + (198 * i))*hudScale, 198 * hudScale, 198 * hudScale), icons[0]);
 		}
 		GUI.EndGroup();
 		GUI.skin = skin;
