@@ -4,10 +4,7 @@ using System.Collections.Generic;
 
 public class EnemyController : MonoBehaviour {
 
-	public float fireRate;
-	public float damage;
-	public int unitID;
-	public float health = 100;
+	public float health;
 	public float moveSpeed = 5;
 	public float bulletSpeed = 1000;
 	public List<Transform> bulletSpawns = new List<Transform>();
@@ -27,11 +24,22 @@ public class EnemyController : MonoBehaviour {
 	private float _nextFireTime;
 	private float _pauseTime;
 	private ObjectPoolerWorld _bulletPool;
+	private UnitStats _unitStats;
 
 	void Start () 
 	{
+		if(Application.loadedLevelName == "LevelEditor")
+		{
+			this.enabled = false;
+			if(useGunner)
+				GetComponent<Gunner>().enabled = false;
+			return;
+		}
+		renderer.materials[1] = null;
+		_unitStats = GetComponent<UnitStats>();
+		health = _unitStats.health;
 		_bulletPool = GameObject.Find("_EnemyBulletPool").GetComponent<ObjectPoolerWorld>();
-		_nextFireTime = Time.time + fireRate;
+		_nextFireTime = Time.time + _unitStats.fireRate;
 	}
 	
 	void Update () 
@@ -46,7 +54,7 @@ public class EnemyController : MonoBehaviour {
 			if(Time.time >= _nextFireTime)
 			{
 				Fire();
-				_nextFireTime = Time.time + fireRate;
+				_nextFireTime = Time.time + _unitStats.fireRate;
 			}
 		}
 		transform.position = _curPosition;
@@ -90,7 +98,7 @@ public class EnemyController : MonoBehaviour {
 			bullet.transform.rotation = g.rotation;
 			bullet.SetActive(true);
 			bullet.rigidbody.AddForce(g.forward * bulletSpeed);
-			bullet.GetComponent<BulletController>().SetStats(damage);
+			bullet.GetComponent<BulletController>().SetStats(_unitStats.damageOutput);
 		}
 	}
 	public void Pause()

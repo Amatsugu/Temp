@@ -5,6 +5,8 @@ Project("{14519BC2-5B96-7375-0B6A-A30FF03C49C2}") = "LuminousVector", "Assembly-
 EndProject
 Project("{14519BC2-5B96-7375-0B6A-A30FF03C49C2}") = "LuminousVector", "Assembly-CSharp.csproj", "{2149BF6A-72DB-D95C-4C60-122B6D7DF866}"
 EndProject
+Project("{14519BC2-5B96-7375-0B6A-A30FF03C49C2}") = "LuminousVector", "Assembly-CSharp-Editor.csproj", "{421043E6-B037-B051-99CA-45F00C995E94}"
+EndProject
 Project("{14519BC2-5B96-7375-0B6A-A30FF03C49C2}") = "LuminousVector", "Assembly-UnityScript-firstpass.unityproj", "{F593809F-661A-89A9-FBBC-DADCC62A3226}"
 EndProject
 Global
@@ -21,6 +23,10 @@ Global
 		{2149BF6A-72DB-D95C-4C60-122B6D7DF866}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2149BF6A-72DB-D95C-4C60-122B6D7DF866}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2149BF6A-72DB-D95C-4C60-122B6D7DF866}.Release|Any CPU.Build.0 = Release|Any CPU
+		{421043E6-B037-B051-99CA-45F00C995E94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{421043E6-B037-B051-99CA-45F00C995E94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{421043E6-B037-B051-99CA-45F00C995E94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{421043E6-B037-B051-99CA-45F00C995E94}.Release|Any CPU.Build.0 = Release|Any CPU
 		{F593809F-661A-89A9-FBBC-DADCC62A3226}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{F593809F-661A-89A9-FBBC-DADCC62A3226}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F593809F-661A-89A9-FBBC-DADCC62A3226}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -29,7 +35,7 @@ Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
-								GlobalSection(MonoDevelopProperties) = preSolution
+														GlobalSection(MonoDevelopProperties) = preSolution
 		StartupItem = Assembly-CSharp.csproj
 		Policies = $0
 		$0.TextStylePolicy = $1

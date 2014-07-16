@@ -5,6 +5,8 @@ Project("{14519BC2-5B96-7375-0B6A-A30FF03C49C2}") = "LuminousVector", "Assembly-
 EndProject
 Project("{14519BC2-5B96-7375-0B6A-A30FF03C49C2}") = "LuminousVector", "Assembly-CSharp-vs.csproj", "{2149BF6A-72DB-D95C-4C60-122B6D7DF866}"
 EndProject
+Project("{14519BC2-5B96-7375-0B6A-A30FF03C49C2}") = "LuminousVector", "Assembly-CSharp-Editor-vs.csproj", "{421043E6-B037-B051-99CA-45F00C995E94}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -19,11 +21,15 @@ Global
 		{2149BF6A-72DB-D95C-4C60-122B6D7DF866}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2149BF6A-72DB-D95C-4C60-122B6D7DF866}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2149BF6A-72DB-D95C-4C60-122B6D7DF866}.Release|Any CPU.Build.0 = Release|Any CPU
+		{421043E6-B037-B051-99CA-45F00C995E94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{421043E6-B037-B051-99CA-45F00C995E94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{421043E6-B037-B051-99CA-45F00C995E94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{421043E6-B037-B051-99CA-45F00C995E94}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
-									GlobalSection(MonoDevelopProperties) = preSolution
+															GlobalSection(MonoDevelopProperties) = preSolution
 		StartupItem = Assembly-CSharp.csproj
 		Policies = $0
 		$0.TextStylePolicy = $1

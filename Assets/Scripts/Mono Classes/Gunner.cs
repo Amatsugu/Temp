@@ -81,6 +81,6 @@ public class Gunner : MonoBehaviour {
 		bullet.transform.rotation = r;
 		bullet.SetActive(true);
 		bullet.rigidbody.AddForce(bullet.transform.forward * _eController.bulletSpeed);
-		bullet.GetComponent<BulletController>().SetStats(_eController.damage);
+		bullet.GetComponent<BulletController>().SetStats(GetComponent<UnitStats>().damageOutput);
 	}
 }
