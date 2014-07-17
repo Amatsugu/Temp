@@ -1,14 +1,12 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Mono Classes\EnemyController.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\TargetingHUD.cs">
     <Files>
-      <File FileName="Assets\Shader\Outline.shader" Line="4" Column="3" />
-      <File FileName="Assets\Scripts\Mono Classes\PlayerHUD.cs" Line="30" Column="31" />
-      <File FileName="Assets\Scripts\Mono Classes\PlayerController.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\Game Classes\ControlMap.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\Mono Classes\UnitStats.cs" Line="22" Column="64" />
-      <File FileName="Assets\Scripts\Mono Classes\LevelEditor.cs" Line="278" Column="1" />
-      <File FileName="Assets\Scripts\Mono Classes\EnemyController.cs" Line="38" Column="31" />
+      <File FileName="Assets\TargetingHUD.cs" Line="44" Column="11" />
+      <File FileName="Assets\Scripts\Mono Classes\WaveMaster.cs" Line="147" Column="1" />
+      <File FileName="Assets\Scripts\Mono Classes\MainMenu.cs" Line="73" Column="31" />
+      <File FileName="Assets\Scripts\Mono Classes\PowerUpObject.cs" Line="15" Column="67" />
+      <File FileName="Assets\Scripts\Mono Classes\PlayerController.cs" Line="189" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

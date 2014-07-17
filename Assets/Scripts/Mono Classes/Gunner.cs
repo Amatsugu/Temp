@@ -74,6 +74,8 @@ public class Gunner : MonoBehaviour {
 	}
 	void Fire(Vector3 g, Quaternion r)
 	{
+		if(projectiles == null)
+			return;
 		GameObject bullet = projectiles.GetPooledObject();
 		if(bullet == null)
 			return;

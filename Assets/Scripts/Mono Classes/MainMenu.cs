@@ -69,6 +69,7 @@ public class MainMenu : MonoBehaviour {
 	void Start () 
 	{
 		LoadSettings();
+		ApplySettings();
 		for(int i = 0; i < MenuItemNames.Count; i++)
 		{
 			_l2Offset.Add(0f);

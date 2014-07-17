@@ -64,11 +64,11 @@
  <Reference Include="Assembly-UnityScript-firstpass">
  <HintPath>C:/Users/Khamraj/Documents/GitHub/LuminousVector/Library/ScriptAssemblies/Assembly-UnityScript-firstpass.dll</HintPath>
  </Reference>
- <Reference Include="UnityEditor.Graphs">
- <HintPath>C:/Program Files (x86)/Unity/Editor/Data/Managed/UnityEditor.Graphs.dll</HintPath>
- </Reference>
  <Reference Include="StrumpyShaderEditor">
  <HintPath>C:/Users/Khamraj/Documents/GitHub/LuminousVector/Assets/StrumpyShaderEditor/Editor/StrumpyShaderEditor.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEditor.Graphs">
+ <HintPath>C:/Program Files (x86)/Unity/Editor/Data/Managed/UnityEditor.Graphs.dll</HintPath>
  </Reference>
   </ItemGroup>
   <ItemGroup>

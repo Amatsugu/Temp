@@ -35,7 +35,8 @@ public class EnemyController : MonoBehaviour {
 				GetComponent<Gunner>().enabled = false;
 			return;
 		}
-		renderer.materials[1] = null;
+		if(renderer.materials[1])
+			renderer.materials[1] = null;
 		_unitStats = GetComponent<UnitStats>();
 		health = _unitStats.health;
 		_bulletPool = GameObject.Find("_EnemyBulletPool").GetComponent<ObjectPoolerWorld>();

@@ -154,4 +154,9 @@ public class WaveMaster : MonoBehaviour {
 		}else
 			return false;
 	}
+
+	public List<GameObject> GetSpawnedUnits()
+	{
+		return _spawnedEnemies;
+	}
 }

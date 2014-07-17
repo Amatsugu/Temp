@@ -69,6 +69,7 @@
      <Compile Include="Assets\Scripts\Mono Classes\TimedDestoyer.cs" />
      <Compile Include="Assets\Scripts\Mono Classes\UnitStats.cs" />
      <Compile Include="Assets\Scripts\Mono Classes\WaveMaster.cs" />
+     <Compile Include="Assets\TargetingHUD.cs" />
      <None Include="Assets\Standard Assets\Toon Shading\Sources\Shaders\Toony-Basic.shader" />
      <None Include="Assets\Standard Assets\Tessellation Shaders\BumpedSpecularSmooth.shader" />
      <None Include="Assets\Standard Assets\Particles\Sources\Shaders\Particle Alpha Blend (Queue +100).shader" />

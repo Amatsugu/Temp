@@ -11,7 +11,8 @@ public class PowerUpObject : MonoBehaviour {
 
 	void Start () 
 	{
-		_player = GameObject.FindGameObjectWithTag("Player").transform;
+		if(GameObject.FindGameObjectWithTag("Player"))
+			_player = GameObject.FindGameObjectWithTag("Player").transform;
 	}
 	
 	void Update () 

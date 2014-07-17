@@ -64,7 +64,7 @@ public class PlayerController : MonoBehaviour {
 			{
 				RaycastHit hit;
 				Vector3 rawPos = Input.mousePosition;
-				Vector3 mPos = new Vector3(rawPos.x, Screen.height - rawPos.y, 0);
+				//Vector3 mPos = new Vector3(rawPos.x, Screen.height - rawPos.y, 0);
 				Physics.Raycast(Camera.main.ScreenPointToRay(rawPos), out hit);
 				if(hit.point != Vector3.zero)
 				{
