@@ -8,6 +8,9 @@ public class UnitStats : MonoBehaviour {
 	public float fireRate;
 	public float health = 100;
 	public int unitID;
+	public WeaponType weaponType;
+	public BulletType bulletType;
+	public float[] bulletParams;
 
 	public void SetRed()
 	{

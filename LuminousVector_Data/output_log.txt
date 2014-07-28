@@ -1,0 +1,1484 @@
+Initialize engine version: 4.5.2f1 (9abb1b59b47c)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [aticfx64.dll 8.17.10.1280]
+    Renderer: AMD Radeon HD 8650G
+    Vendor:   ATI
+    VRAM:     735 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=1 INTZ=1 RAWZ=0 NULL=1 RESZ=1 SlowINTZ=1
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Khamraj\Documents\GitHub\LuminousVector\LuminousVector_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Khamraj\Documents\GitHub\LuminousVector\LuminousVector_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Khamraj\Documents\GitHub\LuminousVector\LuminousVector_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Khamraj\Documents\GitHub\LuminousVector\LuminousVector_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Khamraj\Documents\GitHub\LuminousVector\LuminousVector_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Khamraj\Documents\GitHub\LuminousVector\LuminousVector_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Khamraj\Documents\GitHub\LuminousVector\LuminousVector_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading C:\Users\Khamraj\Documents\GitHub\LuminousVector\LuminousVector_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+- Completed reload, in  0.163 seconds
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+Initialize engine version: 4.5.2f1 (9abb1b59b47c)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [aticfx64.dll 8.17.10.1280]
+    Renderer: AMD Radeon HD 8650G
+    Vendor:   ATI
+    VRAM:     735 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=1 INTZ=1 RAWZ=0 NULL=1 RESZ=1 SlowINTZ=1
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Khamraj\Documents\GitHub\LuminousVector\LuminousVector_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Khamraj\Documents\GitHub\LuminousVector\LuminousVector_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Khamraj\Documents\GitHub\LuminousVector\LuminousVector_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Khamraj\Documents\GitHub\LuminousVector\LuminousVector_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Khamraj\Documents\GitHub\LuminousVector\LuminousVector_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Khamraj\Documents\GitHub\LuminousVector\LuminousVector_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Khamraj\Documents\GitHub\LuminousVector\LuminousVector_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading C:\Users\Khamraj\Documents\GitHub\LuminousVector\LuminousVector_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+- Completed reload, in  0.093 seconds
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+640:1360 | 480:768 | 60:60
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MainMenu:LoadSettings() (at C:\Users\Khamraj\Documents\GitHub\LuminousVector\Assets\Scripts\Mono Classes\MainMenu.cs:128)
+MainMenu:Start() (at C:\Users\Khamraj\Documents\GitHub\LuminousVector\Assets\Scripts\Mono Classes\MainMenu.cs:71)
+ 
+(Filename: C Line: 0)
+
+800:1360 | 480:768 | 60:60
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MainMenu:LoadSettings() (at C:\Users\Khamraj\Documents\GitHub\LuminousVector\Assets\Scripts\Mono Classes\MainMenu.cs:128)
+MainMenu:Start() (at C:\Users\Khamraj\Documents\GitHub\LuminousVector\Assets\Scripts\Mono Classes\MainMenu.cs:71)
+ 
+(Filename: C Line: 0)
+
+800:1360 | 600:768 | 60:60
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MainMenu:LoadSettings() (at C:\Users\Khamraj\Documents\GitHub\LuminousVector\Assets\Scripts\Mono Classes\MainMenu.cs:128)
+MainMenu:Start() (at C:\Users\Khamraj\Documents\GitHub\LuminousVector\Assets\Scripts\Mono Classes\MainMenu.cs:71)
+ 
+(Filename: C Line: 0)
+
+1024:1360 | 600:768 | 60:60
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MainMenu:LoadSettings() (at C:\Users\Khamraj\Documents\GitHub\LuminousVector\Assets\Scripts\Mono Classes\MainMenu.cs:128)
+MainMenu:Start() (at C:\Users\Khamraj\Documents\GitHub\LuminousVector\Assets\Scripts\Mono Classes\MainMenu.cs:71)
+ 
+(Filename: C Line: 0)
+
+1024:1360 | 768:768 | 60:60
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MainMenu:LoadSettings() (at C:\Users\Khamraj\Documents\GitHub\LuminousVector\Assets\Scripts\Mono Classes\MainMenu.cs:128)
+MainMenu:Start() (at C:\Users\Khamraj\Documents\GitHub\LuminousVector\Assets\Scripts\Mono Classes\MainMenu.cs:71)
+ 
+(Filename: C Line: 0)
+
+1280:1360 | 720:768 | 60:60
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MainMenu:LoadSettings() (at C:\Users\Khamraj\Documents\GitHub\LuminousVector\Assets\Scripts\Mono Classes\MainMenu.cs:128)
+MainMenu:Start() (at C:\Users\Khamraj\Documents\GitHub\LuminousVector\Assets\Scripts\Mono Classes\MainMenu.cs:71)
+ 
+(Filename: C Line: 0)
+
+1280:1360 | 768:768 | 60:60
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MainMenu:LoadSettings() (at C:\Users\Khamraj\Documents\GitHub\LuminousVector\Assets\Scripts\Mono Classes\MainMenu.cs:128)
+MainMenu:Start() (at C:\Users\Khamraj\Documents\GitHub\LuminousVector\Assets\Scripts\Mono Classes\MainMenu.cs:71)
+ 
+(Filename: C Line: 0)
+
+1280:1360 | 1024:768 | 60:60
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MainMenu:LoadSettings() (at C:\Users\Khamraj\Documents\GitHub\LuminousVector\Assets\Scripts\Mono Classes\MainMenu.cs:128)
+MainMenu:Start() (at C:\Users\Khamraj\Documents\GitHub\LuminousVector\Assets\Scripts\Mono Classes\MainMenu.cs:71)
+ 
+(Filename: C Line: 0)
+
+1360:1360 | 768:768 | 60:60
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MainMenu:LoadSettings() (at C:\Users\Khamraj\Documents\GitHub\LuminousVector\Assets\Scripts\Mono Classes\MainMenu.cs:128)
+MainMenu:Start() (at C:\Users\Khamraj\Documents\GitHub\LuminousVector\Assets\Scripts\Mono Classes\MainMenu.cs:71)
+ 
+(Filename: C Line: 0)
+
+Loading Levels
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MainMenu:GetLevels() (at C:\Users\Khamraj\Documents\GitHub\LuminousVector\Assets\Scripts\Mono Classes\MainMenu.cs:154)
+MainMenu:Start() (at C:\Users\Khamraj\Documents\GitHub\LuminousVector\Assets\Scripts\Mono Classes\MainMenu.cs:94)
+ 
+(Filename: C Line: 0)
+
+Font size and style overrides are only supported for dynamic fonts.
+UnityEngine.GUIStyle:INTERNAL_CALL_Internal_Draw2(IntPtr, Rect&, GUIContent, Int32, Boolean)
+UnityEngine.GUIStyle:Internal_Draw2(IntPtr, Rect, GUIContent, Int32, Boolean) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUIStyleBindings.cs:748)
+UnityEngine.GUIStyle:Draw(Rect, GUIContent, Int32, Boolean) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUIStyleBindings.cs:741)
+UnityEngine.GUI:DoTextField(Rect, Int32, GUIContent, Boolean, Int32, GUIStyle) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:682)
+UnityEngine.GUI:TextField(Rect, String) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:440)
+MainMenu:UsernameWin(Int32) (at C:\Users\Khamraj\Documents\GitHub\LuminousVector\Assets\Scripts\Mono Classes\MainMenu.cs:490)
+UnityEngine.GUI:CallWindowDelegate(WindowFunction, Int32, GUISkin, Int32, Single, Single, GUIStyle) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:1402)
+
+[C:/BuildAgent/work/d63dfc6385190b60/Runtime/IMGUI/TextMeshGenerator2.cpp line 76] 
+(Filename: C Line: 0)
+
+Font size and style overrides are only supported for dynamic fonts.
+UnityEngine.GUIStyle:INTERNAL_CALL_Internal_Draw2(IntPtr, Rect&, GUIContent, Int32, Boolean)
+UnityEngine.GUIStyle:Internal_Draw2(IntPtr, Rect, GUIContent, Int32, Boolean) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUIStyleBindings.cs:748)
+UnityEngine.GUIStyle:Draw(Rect, GUIContent, Int32, Boolean) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUIStyleBindings.cs:741)
+UnityEngine.GUI:DoTextField(Rect, Int32, GUIContent, Boolean, Int32, GUIStyle) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:682)
+UnityEngine.GUI:TextField(Rect, String) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:440)
+MainMenu:UsernameWin(Int32) (at C:\Users\Khamraj\Documents\GitHub\LuminousVector\Assets\Scripts\Mono Classes\MainMenu.cs:490)
+UnityEngine.GUI:CallWindowDelegate(WindowFunction, Int32, GUISkin, Int32, Single, Single, GUIStyle) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:1402)
+
+[C:/BuildAgent/work/d63dfc6385190b60/Runtime/IMGUI/TextMeshGenerator2.cpp line 76] 
+(Filename: C Line: 0)
+
+Font size and style overrides are only supported for dynamic fonts.
+UnityEngine.GUIStyle:INTERNAL_CALL_Internal_GetCursorStringIndex(IntPtr, Rect&, GUIContent, Vector2&)
+UnityEngine.GUIStyle:Internal_GetCursorStringIndex(IntPtr, Rect, GUIContent, Vector2) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUIStyleBindings.cs:879)
+UnityEngine.GUIStyle:GetCursorStringIndex(Rect, GUIContent, Vector2) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUIStyleBindings.cs:875)
+UnityEngine.TextEditor:MoveCursorToPosition(Vector2) (at C:\BuildAgent\work\d63dfc6385190b60\Runtime\Export\TextEditor.cs:413)
+UnityEngine.GUI:DoTextField(Rect, Int32, GUIContent, Boolean, Int32, GUIStyle) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:609)
+UnityEngine.GUI:TextField(Rect, String) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:440)
+MainMenu:UsernameWin(Int32) (at C:\Users\Khamraj\Documents\GitHub\LuminousVector\Assets\Scripts\Mono Classes\MainMenu.cs:490)
+UnityEngine.GUI:CallWindowDelegate(WindowFunction, Int32, GUISkin, Int32, Single, Single, GUIStyle) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:1402)
+
+[C:/BuildAgent/work/d63dfc6385190b60/Runtime/IMGUI/TextMeshGenerator2.cpp line 76] 
+(Filename: C Line: 0)
+
+Font size and style overrides are only supported for dynamic fonts.
+UnityEngine.GUIStyle:Internal_DrawWithTextSelection(GUIContent, Internal_DrawWithTextSelectionArguments&)
+UnityEngine.GUIStyle:DrawWithTextSelection(Rect, GUIContent, Int32, Int32, Int32, Boolean) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUIStyleBindings.cs:837)
+UnityEngine.GUIStyle:DrawWithTextSelection(Rect, GUIContent, Int32, Int32, Int32) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUIStyleBindings.cs:842)
+UnityEngine.TextEditor:DrawCursor(String) (at C:\BuildAgent\work\d63dfc6385190b60\Runtime\Export\TextEditor.cs:973)
+UnityEngine.GUI:DoTextField(Rect, Int32, GUIContent, Boolean, Int32, GUIStyle) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:684)
+UnityEngine.GUI:TextField(Rect, String) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:440)
+MainMenu:UsernameWin(Int32) (at C:\Users\Khamraj\Documents\GitHub\LuminousVector\Assets\Scripts\Mono Classes\MainMenu.cs:490)
+UnityEngine.GUI:CallWindowDelegate(WindowFunction, Int32, GUISkin, Int32, Single, Single, GUIStyle) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:1402)
+
+[C:/BuildAgent/work/d63dfc6385190b60/Runtime/IMGUI/TextMeshGenerator2.cpp line 76] 
+(Filename: C Line: 0)
+
+Font size and style overrides are only supported for dynamic fonts.
+UnityEngine.GUIStyle:INTERNAL_CALL_Internal_GetCursorPixelPosition(IntPtr, Rect&, GUIContent, Int32, Vector2&)
+UnityEngine.GUIStyle:Internal_GetCursorPixelPosition(IntPtr, Rect, GUIContent, Int32, Vector2&) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUIStyleBindings.cs:868)
+UnityEngine.GUIStyle:GetCursorPixelPosition(Rect, GUIContent, Int32) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUIStyleBindings.cs:865)
+UnityEngine.TextEditor:UpdateScrollOffset() (at C:\BuildAgent\work\d63dfc6385190b60\Runtime\Export\TextEditor.cs:892)
+UnityEngine.TextEditor:HandleKeyEvent(Event) (at C:\BuildAgent\work\d63dfc6385190b60\Runtime\Export\TextEditor.cs:75)
+UnityEngine.GUI:DoTextField(Rect, Int32, GUIContent, Boolean, Int32, GUIStyle) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:643)
+UnityEngine.GUI:TextField(Rect, String) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:440)
+MainMenu:UsernameWin(Int32) (at C:\Users\Khamraj\Documents\GitHub\LuminousVector\Assets\Scripts\Mono Classes\MainMenu.cs:490)
+UnityEngine.GUI:CallWindowDelegate(WindowFunction, Int32, GUISkin, Int32, Single, Single, GUIStyle) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:1402)
+
+[C:/BuildAgent/work/d63dfc6385190b60/Runtime/IMGUI/TextMeshGenerator2.cpp line 76] 
+(Filename: C Line: 0)
+
+Font size and style overrides are only supported for dynamic fonts.
+UnityEngine.GUIStyle:Internal_DrawWithTextSelection(GUIContent, Internal_DrawWithTextSelectionArguments&)
+UnityEngine.GUIStyle:DrawWithTextSelection(Rect, GUIContent, Int32, Int32, Int32, Boolean) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUIStyleBindings.cs:837)
+UnityEngine.GUIStyle:DrawWithTextSelection(Rect, GUIContent, Int32, Int32, Int32) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUIStyleBindings.cs:842)
+UnityEngine.TextEditor:DrawCursor(String) (at C:\BuildAgent\work\d63dfc6385190b60\Runtime\Export\TextEditor.cs:973)
+UnityEngine.GUI:DoTextField(Rect, Int32, GUIContent, Boolean, Int32, GUIStyle) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:684)
+UnityEngine.GUI:TextField(Rect, String) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:440)
+MainMenu:UsernameWin(Int32) (at C:\Users\Khamraj\Documents\GitHub\LuminousVector\Assets\Scripts\Mono Classes\MainMenu.cs:490)
+UnityEngine.GUI:CallWindowDelegate(WindowFunction, Int32, GUISkin, Int32, Single, Single, GUIStyle) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:1402)
+
+[C:/BuildAgent/work/d63dfc6385190b60/Runtime/IMGUI/TextMeshGenerator2.cpp line 76] 
+(Filename: C Line: 0)
+
+Font size and style overrides are only supported for dynamic fonts.
+UnityEngine.GUIStyle:INTERNAL_CALL_Internal_GetCursorPixelPosition(IntPtr, Rect&, GUIContent, Int32, Vector2&)
+UnityEngine.GUIStyle:Internal_GetCursorPixelPosition(IntPtr, Rect, GUIContent, Int32, Vector2&) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUIStyleBindings.cs:868)
+UnityEngine.GUIStyle:GetCursorPixelPosition(Rect, GUIContent, Int32) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUIStyleBindings.cs:865)
+UnityEngine.TextEditor:UpdateScrollOffset() (at C:\BuildAgent\work\d63dfc6385190b60\Runtime\Export\TextEditor.cs:892)
+UnityEngine.TextEditor:HandleKeyEvent(Event) (at C:\BuildAgent\work\d63dfc6385190b60\Runtime\Export\TextEditor.cs:75)
+UnityEngine.GUI:DoTextField(Rect, Int32, GUIContent, Boolean, Int32, GUIStyle) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:643)
+UnityEngine.GUI:TextField(Rect, String) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:440)
+MainMenu:UsernameWin(Int32) (at C:\Users\Khamraj\Documents\GitHub\LuminousVector\Assets\Scripts\Mono Classes\MainMenu.cs:490)
+UnityEngine.GUI:CallWindowDelegate(WindowFunction, Int32, GUISkin, Int32, Single, Single, GUIStyle) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:1402)
+
+[C:/BuildAgent/work/d63dfc6385190b60/Runtime/IMGUI/TextMeshGenerator2.cpp line 76] 
+(Filename: C Line: 0)
+
+Font size and style overrides are only supported for dynamic fonts.
+UnityEngine.GUIStyle:Internal_DrawWithTextSelection(GUIContent, Internal_DrawWithTextSelectionArguments&)
+UnityEngine.GUIStyle:DrawWithTextSelection(Rect, GUIContent, Int32, Int32, Int32, Boolean) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUIStyleBindings.cs:837)
+UnityEngine.GUIStyle:DrawWithTextSelection(Rect, GUIContent, Int32, Int32, Int32) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUIStyleBindings.cs:842)
+UnityEngine.TextEditor:DrawCursor(String) (at C:\BuildAgent\work\d63dfc6385190b60\Runtime\Export\TextEditor.cs:973)
+UnityEngine.GUI:DoTextField(Rect, Int32, GUIContent, Boolean, Int32, GUIStyle) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:684)
+UnityEngine.GUI:TextField(Rect, String) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:440)
+MainMenu:UsernameWin(Int32) (at C:\Users\Khamraj\Documents\GitHub\LuminousVector\Assets\Scripts\Mono Classes\MainMenu.cs:490)
+UnityEngine.GUI:CallWindowDelegate(WindowFunction, Int32, GUISkin, Int32, Single, Single, GUIStyle) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:1402)
+
+[C:/BuildAgent/work/d63dfc6385190b60/Runtime/IMGUI/TextMeshGenerator2.cpp line 76] 
+(Filename: C Line: 0)
+
+Font size and style overrides are only supported for dynamic fonts.
+UnityEngine.GUIStyle:INTERNAL_CALL_Internal_GetCursorPixelPosition(IntPtr, Rect&, GUIContent, Int32, Vector2&)
+UnityEngine.GUIStyle:Internal_GetCursorPixelPosition(IntPtr, Rect, GUIContent, Int32, Vector2&) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUIStyleBindings.cs:868)
+UnityEngine.GUIStyle:GetCursorPixelPosition(Rect, GUIContent, Int32) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUIStyleBindings.cs:865)
+UnityEngine.TextEditor:UpdateScrollOffset() (at C:\BuildAgent\work\d63dfc6385190b60\Runtime\Export\TextEditor.cs:892)
+UnityEngine.TextEditor:HandleKeyEvent(Event) (at C:\BuildAgent\work\d63dfc6385190b60\Runtime\Export\TextEditor.cs:75)
+UnityEngine.GUI:DoTextField(Rect, Int32, GUIContent, Boolean, Int32, GUIStyle) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:643)
+UnityEngine.GUI:TextField(Rect, String) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:440)
+MainMenu:UsernameWin(Int32) (at C:\Users\Khamraj\Documents\GitHub\LuminousVector\Assets\Scripts\Mono Classes\MainMenu.cs:490)
+UnityEngine.GUI:CallWindowDelegate(WindowFunction, Int32, GUISkin, Int32, Single, Single, GUIStyle) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:1402)
+
+[C:/BuildAgent/work/d63dfc6385190b60/Runtime/IMGUI/TextMeshGenerator2.cpp line 76] 
+(Filename: C Line: 0)
+
+Font size and style overrides are only supported for dynamic fonts.
+UnityEngine.GUIStyle:Internal_DrawWithTextSelection(GUIContent, Internal_DrawWithTextSelectionArguments&)
+UnityEngine.GUIStyle:DrawWithTextSelection(Rect, GUIContent, Int32, Int32, Int32, Boolean) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUIStyleBindings.cs:837)
+UnityEngine.GUIStyle:DrawWithTextSelection(Rect, GUIContent, Int32, Int32, Int32) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUIStyleBindings.cs:842)
+UnityEngine.TextEditor:DrawCursor(String) (at C:\BuildAgent\work\d63dfc6385190b60\Runtime\Export\TextEditor.cs:973)
+UnityEngine.GUI:DoTextField(Rect, Int32, GUIContent, Boolean, Int32, GUIStyle) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:684)
+UnityEngine.GUI:TextField(Rect, String) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:440)
+MainMenu:UsernameWin(Int32) (at C:\Users\Khamraj\Documents\GitHub\LuminousVector\Assets\Scripts\Mono Classes\MainMenu.cs:490)
+UnityEngine.GUI:CallWindowDelegate(WindowFunction, Int32, GUISkin, Int32, Single, Single, GUIStyle) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:1402)
+
+[C:/BuildAgent/work/d63dfc6385190b60/Runtime/IMGUI/TextMeshGenerator2.cpp line 76] 
+(Filename: C Line: 0)
+
+Font size and style overrides are only supported for dynamic fonts.
+UnityEngine.GUIStyle:INTERNAL_CALL_Internal_GetCursorPixelPosition(IntPtr, Rect&, GUIContent, Int32, Vector2&)
+UnityEngine.GUIStyle:Internal_GetCursorPixelPosition(IntPtr, Rect, GUIContent, Int32, Vector2&) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUIStyleBindings.cs:868)
+UnityEngine.GUIStyle:GetCursorPixelPosition(Rect, GUIContent, Int32) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUIStyleBindings.cs:865)
+UnityEngine.TextEditor:UpdateScrollOffset() (at C:\BuildAgent\work\d63dfc6385190b60\Runtime\Export\TextEditor.cs:892)
+UnityEngine.TextEditor:HandleKeyEvent(Event) (at C:\BuildAgent\work\d63dfc6385190b60\Runtime\Export\TextEditor.cs:75)
+UnityEngine.GUI:DoTextField(Rect, Int32, GUIContent, Boolean, Int32, GUIStyle) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:643)
+UnityEngine.GUI:TextField(Rect, String) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:440)
+MainMenu:UsernameWin(Int32) (at C:\Users\Khamraj\Documents\GitHub\LuminousVector\Assets\Scripts\Mono Classes\MainMenu.cs:490)
+UnityEngine.GUI:CallWindowDelegate(WindowFunction, Int32, GUISkin, Int32, Single, Single, GUIStyle) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:1402)
+
+[C:/BuildAgent/work/d63dfc6385190b60/Runtime/IMGUI/TextMeshGenerator2.cpp line 76] 
+(Filename: C Line: 0)
+
+Font size and style overrides are only supported for dynamic fonts.
+UnityEngine.GUIStyle:Internal_DrawWithTextSelection(GUIContent, Internal_DrawWithTextSelectionArguments&)
+UnityEngine.GUIStyle:DrawWithTextSelection(Rect, GUIContent, Int32, Int32, Int32, Boolean) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUIStyleBindings.cs:837)
+UnityEngine.GUIStyle:DrawWithTextSelection(Rect, GUIContent, Int32, Int32, Int32) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUIStyleBindings.cs:842)
+UnityEngine.TextEditor:DrawCursor(String) (at C:\BuildAgent\work\d63dfc6385190b60\Runtime\Export\TextEditor.cs:973)
+UnityEngine.GUI:DoTextField(Rect, Int32, GUIContent, Boolean, Int32, GUIStyle) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:684)
+UnityEngine.GUI:TextField(Rect, String) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:440)
+MainMenu:UsernameWin(Int32) (at C:\Users\Khamraj\Documents\GitHub\LuminousVector\Assets\Scripts\Mono Classes\MainMenu.cs:490)
+UnityEngine.GUI:CallWindowDelegate(WindowFunction, Int32, GUISkin, Int32, Single, Single, GUIStyle) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:1402)
+
+[C:/BuildAgent/work/d63dfc6385190b60/Runtime/IMGUI/TextMeshGenerator2.cpp line 76] 
+(Filename: C Line: 0)
+
+Font size and style overrides are only supported for dynamic fonts.
+UnityEngine.GUIStyle:INTERNAL_CALL_Internal_GetCursorPixelPosition(IntPtr, Rect&, GUIContent, Int32, Vector2&)
+UnityEngine.GUIStyle:Internal_GetCursorPixelPosition(IntPtr, Rect, GUIContent, Int32, Vector2&) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUIStyleBindings.cs:868)
+UnityEngine.GUIStyle:GetCursorPixelPosition(Rect, GUIContent, Int32) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUIStyleBindings.cs:865)
+UnityEngine.TextEditor:UpdateScrollOffset() (at C:\BuildAgent\work\d63dfc6385190b60\Runtime\Export\TextEditor.cs:892)
+UnityEngine.TextEditor:HandleKeyEvent(Event) (at C:\BuildAgent\work\d63dfc6385190b60\Runtime\Export\TextEditor.cs:75)
+UnityEngine.GUI:DoTextField(Rect, Int32, GUIContent, Boolean, Int32, GUIStyle) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:643)
+UnityEngine.GUI:TextField(Rect, String) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:440)
+MainMenu:UsernameWin(Int32) (at C:\Users\Khamraj\Documents\GitHub\LuminousVector\Assets\Scripts\Mono Classes\MainMenu.cs:490)
+UnityEngine.GUI:CallWindowDelegate(WindowFunction, Int32, GUISkin, Int32, Single, Single, GUIStyle) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:1402)
+
+[C:/BuildAgent/work/d63dfc6385190b60/Runtime/IMGUI/TextMeshGenerator2.cpp line 76] 
+(Filename: C Line: 0)
+
+Font size and style overrides are only supported for dynamic fonts.
+UnityEngine.GUIStyle:Internal_DrawWithTextSelection(GUIContent, Internal_DrawWithTextSelectionArguments&)
+UnityEngine.GUIStyle:DrawWithTextSelection(Rect, GUIContent, Int32, Int32, Int32, Boolean) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUIStyleBindings.cs:837)
+UnityEngine.GUIStyle:DrawWithTextSelection(Rect, GUIContent, Int32, Int32, Int32) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUIStyleBindings.cs:842)
+UnityEngine.TextEditor:DrawCursor(String) (at C:\BuildAgent\work\d63dfc6385190b60\Runtime\Export\TextEditor.cs:973)
+UnityEngine.GUI:DoTextField(Rect, Int32, GUIContent, Boolean, Int32, GUIStyle) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:684)
+UnityEngine.GUI:TextField(Rect, String) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:440)
+MainMenu:UsernameWin(Int32) (at C:\Users\Khamraj\Documents\GitHub\LuminousVector\Assets\Scripts\Mono Classes\MainMenu.cs:490)
+UnityEngine.GUI:CallWindowDelegate(WindowFunction, Int32, GUISkin, Int32, Single, Single, GUIStyle) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:1402)
+
+[C:/BuildAgent/work/d63dfc6385190b60/Runtime/IMGUI/TextMeshGenerator2.cpp line 76] 
+(Filename: C Line: 0)
+
+Font size and style overrides are only supported for dynamic fonts.
+UnityEngine.GUIStyle:INTERNAL_CALL_Internal_GetCursorPixelPosition(IntPtr, Rect&, GUIContent, Int32, Vector2&)
+UnityEngine.GUIStyle:Internal_GetCursorPixelPosition(IntPtr, Rect, GUIContent, Int32, Vector2&) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUIStyleBindings.cs:868)
+UnityEngine.GUIStyle:GetCursorPixelPosition(Rect, GUIContent, Int32) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUIStyleBindings.cs:865)
+UnityEngine.TextEditor:UpdateScrollOffset() (at C:\BuildAgent\work\d63dfc6385190b60\Runtime\Export\TextEditor.cs:892)
+UnityEngine.TextEditor:HandleKeyEvent(Event) (at C:\BuildAgent\work\d63dfc6385190b60\Runtime\Export\TextEditor.cs:75)
+UnityEngine.GUI:DoTextField(Rect, Int32, GUIContent, Boolean, Int32, GUIStyle) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:643)
+UnityEngine.GUI:TextField(Rect, String) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:440)
+MainMenu:UsernameWin(Int32) (at C:\Users\Khamraj\Documents\GitHub\LuminousVector\Assets\Scripts\Mono Classes\MainMenu.cs:490)
+UnityEngine.GUI:CallWindowDelegate(WindowFunction, Int32, GUISkin, Int32, Single, Single, GUIStyle) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:1402)
+
+[C:/BuildAgent/work/d63dfc6385190b60/Runtime/IMGUI/TextMeshGenerator2.cpp line 76] 
+(Filename: C Line: 0)
+
+Font size and style overrides are only supported for dynamic fonts.
+UnityEngine.GUIStyle:INTERNAL_CALL_Internal_GetCursorPixelPosition(IntPtr, Rect&, GUIContent, Int32, Vector2&)
+UnityEngine.GUIStyle:Internal_GetCursorPixelPosition(IntPtr, Rect, GUIContent, Int32, Vector2&) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUIStyleBindings.cs:868)
+UnityEngine.GUIStyle:GetCursorPixelPosition(Rect, GUIContent, Int32) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUIStyleBindings.cs:865)
+UnityEngine.TextEditor:UpdateScrollOffset() (at C:\BuildAgent\work\d63dfc6385190b60\Runtime\Export\TextEditor.cs:892)
+UnityEngine.TextEditor:ReplaceSelection(String) (at C:\BuildAgent\work\d63dfc6385190b60\Runtime\Export\TextEditor.cs:234)
+UnityEngine.TextEditor:Insert(Char) (at C:\BuildAgent\work\d63dfc6385190b60\Runtime\Export\TextEditor.cs:239)
+UnityEngine.GUI:DoTextField(Rect, Int32, GUIContent, Boolean, Int32, GUIStyle) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:664)
+UnityEngine.GUI:TextField(Rect, String) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:440)
+MainMenu:UsernameWin(Int32) (at C:\Users\Khamraj\Documents\GitHub\LuminousVector\Assets\Scripts\Mono Classes\MainMenu.cs:490)
+UnityEngine.GUI:CallWindowDelegate(WindowFunction, Int32, GUISkin, Int32, Single, Single, GUIStyle) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:1402)
+
+[C:/BuildAgent/work/d63dfc6385190b60/Runtime/IMGUI/TextMeshGenerator2.cpp line 76] 
+(Filename: C Line: 0)
+
+Font size and style overrides are only supported for dynamic fonts.
+UnityEngine.GUIStyle:Internal_DrawWithTextSelection(GUIContent, Internal_DrawWithTextSelectionArguments&)
+UnityEngine.GUIStyle:DrawWithTextSelection(Rect, GUIContent, Int32, Int32, Int32, Boolean) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUIStyleBindings.cs:837)
+UnityEngine.GUIStyle:DrawWithTextSelection(Rect, GUIContent, Int32, Int32, Int32) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUIStyleBindings.cs:842)
+UnityEngine.TextEditor:DrawCursor(String) (at C:\BuildAgent\work\d63dfc6385190b60\Runtime\Export\TextEditor.cs:973)
+UnityEngine.GUI:DoTextField(Rect, Int32, GUIContent, Boolean, Int32, GUIStyle) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:684)
+UnityEngine.GUI:TextField(Rect, String) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:440)
+MainMenu:UsernameWin(Int32) (at C:\Users\Khamraj\Documents\GitHub\LuminousVector\Assets\Scripts\Mono Classes\MainMenu.cs:490)
+UnityEngine.GUI:CallWindowDelegate(WindowFunction, Int32, GUISkin, Int32, Single, Single, GUIStyle) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:1402)
+
+[C:/BuildAgent/work/d63dfc6385190b60/Runtime/IMGUI/TextMeshGenerator2.cpp line 76] 
+(Filename: C Line: 0)
+
+Font size and style overrides are only supported for dynamic fonts.
+UnityEngine.GUIStyle:INTERNAL_CALL_Internal_GetCursorPixelPosition(IntPtr, Rect&, GUIContent, Int32, Vector2&)
+UnityEngine.GUIStyle:Internal_GetCursorPixelPosition(IntPtr, Rect, GUIContent, Int32, Vector2&) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUIStyleBindings.cs:868)
+UnityEngine.GUIStyle:GetCursorPixelPosition(Rect, GUIContent, Int32) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUIStyleBindings.cs:865)
+UnityEngine.TextEditor:UpdateScrollOffset() (at C:\BuildAgent\work\d63dfc6385190b60\Runtime\Export\TextEditor.cs:892)
+UnityEngine.TextEditor:ReplaceSelection(String) (at C:\BuildAgent\work\d63dfc6385190b60\Runtime\Export\TextEditor.cs:234)
+UnityEngine.TextEditor:Insert(Char) (at C:\BuildAgent\work\d63dfc6385190b60\Runtime\Export\TextEditor.cs:239)
+UnityEngine.GUI:DoTextField(Rect, Int32, GUIContent, Boolean, Int32, GUIStyle) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:664)
+UnityEngine.GUI:TextField(Rect, String) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:440)
+MainMenu:UsernameWin(Int32) (at C:\Users\Khamraj\Documents\GitHub\LuminousVector\Assets\Scripts\Mono Classes\MainMenu.cs:490)
+UnityEngine.GUI:CallWindowDelegate(WindowFunction, Int32, GUISkin, Int32, Single, Single, GUIStyle) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:1402)
+
+[C:/BuildAgent/work/d63dfc6385190b60/Runtime/IMGUI/TextMeshGenerator2.cpp line 76] 
+(Filename: C Line: 0)
+
+Font size and style overrides are only supported for dynamic fonts.
+UnityEngine.GUIStyle:Internal_DrawWithTextSelection(GUIContent, Internal_DrawWithTextSelectionArguments&)
+UnityEngine.GUIStyle:DrawWithTextSelection(Rect, GUIContent, Int32, Int32, Int32, Boolean) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUIStyleBindings.cs:837)
+UnityEngine.GUIStyle:DrawWithTextSelection(Rect, GUIContent, Int32, Int32, Int32) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUIStyleBindings.cs:842)
+UnityEngine.TextEditor:DrawCursor(String) (at C:\BuildAgent\work\d63dfc6385190b60\Runtime\Export\TextEditor.cs:973)
+UnityEngine.GUI:DoTextField(Rect, Int32, GUIContent, Boolean, Int32, GUIStyle) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:684)
+UnityEngine.GUI:TextField(Rect, String) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:440)
+MainMenu:UsernameWin(Int32) (at C:\Users\Khamraj\Documents\GitHub\LuminousVector\Assets\Scripts\Mono Classes\MainMenu.cs:490)
+UnityEngine.GUI:CallWindowDelegate(WindowFunction, Int32, GUISkin, Int32, Single, Single, GUIStyle) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:1402)
+
+[C:/BuildAgent/work/d63dfc6385190b60/Runtime/IMGUI/TextMeshGenerator2.cpp line 76] 
+(Filename: C Line: 0)
+
+Font size and style overrides are only supported for dynamic fonts.
+UnityEngine.GUIStyle:INTERNAL_CALL_Internal_GetCursorPixelPosition(IntPtr, Rect&, GUIContent, Int32, Vector2&)
+UnityEngine.GUIStyle:Internal_GetCursorPixelPosition(IntPtr, Rect, GUIContent, Int32, Vector2&) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUIStyleBindings.cs:868)
+UnityEngine.GUIStyle:GetCursorPixelPosition(Rect, GUIContent, Int32) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUIStyleBindings.cs:865)
+UnityEngine.TextEditor:UpdateScrollOffset() (at C:\BuildAgent\work\d63dfc6385190b60\Runtime\Export\TextEditor.cs:892)
+UnityEngine.TextEditor:ReplaceSelection(String) (at C:\BuildAgent\work\d63dfc6385190b60\Runtime\Export\TextEditor.cs:234)
+UnityEngine.TextEditor:Insert(Char) (at C:\BuildAgent\work\d63dfc6385190b60\Runtime\Export\TextEditor.cs:239)
+UnityEngine.GUI:DoTextField(Rect, Int32, GUIContent, Boolean, Int32, GUIStyle) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:664)
+UnityEngine.GUI:TextField(Rect, String) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:440)
+MainMenu:UsernameWin(Int32) (at C:\Users\Khamraj\Documents\GitHub\LuminousVector\Assets\Scripts\Mono Classes\MainMenu.cs:490)
+UnityEngine.GUI:CallWindowDelegate(WindowFunction, Int32, GUISkin, Int32, Single, Single, GUIStyle) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:1402)
+
+[C:/BuildAgent/work/d63dfc6385190b60/Runtime/IMGUI/TextMeshGenerator2.cpp line 76] 
+(Filename: C Line: 0)
+
+Font size and style overrides are only supported for dynamic fonts.
+UnityEngine.GUIStyle:Internal_DrawWithTextSelection(GUIContent, Internal_DrawWithTextSelectionArguments&)
+UnityEngine.GUIStyle:DrawWithTextSelection(Rect, GUIContent, Int32, Int32, Int32, Boolean) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUIStyleBindings.cs:837)
+UnityEngine.GUIStyle:DrawWithTextSelection(Rect, GUIContent, Int32, Int32, Int32) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUIStyleBindings.cs:842)
+UnityEngine.TextEditor:DrawCursor(String) (at C:\BuildAgent\work\d63dfc6385190b60\Runtime\Export\TextEditor.cs:973)
+UnityEngine.GUI:DoTextField(Rect, Int32, GUIContent, Boolean, Int32, GUIStyle) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:684)
+UnityEngine.GUI:TextField(Rect, String) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:440)
+MainMenu:UsernameWin(Int32) (at C:\Users\Khamraj\Documents\GitHub\LuminousVector\Assets\Scripts\Mono Classes\MainMenu.cs:490)
+UnityEngine.GUI:CallWindowDelegate(WindowFunction, Int32, GUISkin, Int32, Single, Single, GUIStyle) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:1402)
+
+[C:/BuildAgent/work/d63dfc6385190b60/Runtime/IMGUI/TextMeshGenerator2.cpp line 76] 
+(Filename: C Line: 0)
+
+Font size and style overrides are only supported for dynamic fonts.
+UnityEngine.GUIStyle:INTERNAL_CALL_Internal_GetCursorPixelPosition(IntPtr, Rect&, GUIContent, Int32, Vector2&)
+UnityEngine.GUIStyle:Internal_GetCursorPixelPosition(IntPtr, Rect, GUIContent, Int32, Vector2&) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUIStyleBindings.cs:868)
+UnityEngine.GUIStyle:GetCursorPixelPosition(Rect, GUIContent, Int32) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUIStyleBindings.cs:865)
+UnityEngine.TextEditor:UpdateScrollOffset() (at C:\BuildAgent\work\d63dfc6385190b60\Runtime\Export\TextEditor.cs:892)
+UnityEngine.TextEditor:ReplaceSelection(String) (at C:\BuildAgent\work\d63dfc6385190b60\Runtime\Export\TextEditor.cs:234)
+UnityEngine.TextEditor:Insert(Char) (at C:\BuildAgent\work\d63dfc6385190b60\Runtime\Export\TextEditor.cs:239)
+UnityEngine.GUI:DoTextField(Rect, Int32, GUIContent, Boolean, Int32, GUIStyle) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:664)
+UnityEngine.GUI:TextField(Rect, String) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:440)
+MainMenu:UsernameWin(Int32) (at C:\Users\Khamraj\Documents\GitHub\LuminousVector\Assets\Scripts\Mono Classes\MainMenu.cs:490)
+UnityEngine.GUI:CallWindowDelegate(WindowFunction, Int32, GUISkin, Int32, Single, Single, GUIStyle) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:1402)
+
+[C:/BuildAgent/work/d63dfc6385190b60/Runtime/IMGUI/TextMeshGenerator2.cpp line 76] 
+(Filename: C Line: 0)
+
+Font size and style overrides are only supported for dynamic fonts.
+UnityEngine.GUIStyle:Internal_DrawWithTextSelection(GUIContent, Internal_DrawWithTextSelectionArguments&)
+UnityEngine.GUIStyle:DrawWithTextSelection(Rect, GUIContent, Int32, Int32, Int32, Boolean) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUIStyleBindings.cs:837)
+UnityEngine.GUIStyle:DrawWithTextSelection(Rect, GUIContent, Int32, Int32, Int32) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUIStyleBindings.cs:842)
+UnityEngine.TextEditor:DrawCursor(String) (at C:\BuildAgent\work\d63dfc6385190b60\Runtime\Export\TextEditor.cs:973)
+UnityEngine.GUI:DoTextField(Rect, Int32, GUIContent, Boolean, Int32, GUIStyle) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:684)
+UnityEngine.GUI:TextField(Rect, String) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:440)
+MainMenu:UsernameWin(Int32) (at C:\Users\Khamraj\Documents\GitHub\LuminousVector\Assets\Scripts\Mono Classes\MainMenu.cs:490)
+UnityEngine.GUI:CallWindowDelegate(WindowFunction, Int32, GUISkin, Int32, Single, Single, GUIStyle) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:1402)
+
+[C:/BuildAgent/work/d63dfc6385190b60/Runtime/IMGUI/TextMeshGenerator2.cpp line 76] 
+(Filename: C Line: 0)
+
+Font size and style overrides are only supported for dynamic fonts.
+UnityEngine.GUIStyle:INTERNAL_CALL_Internal_GetCursorPixelPosition(IntPtr, Rect&, GUIContent, Int32, Vector2&)
+UnityEngine.GUIStyle:Internal_GetCursorPixelPosition(IntPtr, Rect, GUIContent, Int32, Vector2&) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUIStyleBindings.cs:868)
+UnityEngine.GUIStyle:GetCursorPixelPosition(Rect, GUIContent, Int32) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUIStyleBindings.cs:865)
+UnityEngine.TextEditor:UpdateScrollOffset() (at C:\BuildAgent\work\d63dfc6385190b60\Runtime\Export\TextEditor.cs:892)
+UnityEngine.TextEditor:ReplaceSelection(String) (at C:\BuildAgent\work\d63dfc6385190b60\Runtime\Export\TextEditor.cs:234)
+UnityEngine.TextEditor:Insert(Char) (at C:\BuildAgent\work\d63dfc6385190b60\Runtime\Export\TextEditor.cs:239)
+UnityEngine.GUI:DoTextField(Rect, Int32, GUIContent, Boolean, Int32, GUIStyle) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:664)
+UnityEngine.GUI:TextField(Rect, String) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:440)
+MainMenu:UsernameWin(Int32) (at C:\Users\Khamraj\Documents\GitHub\LuminousVector\Assets\Scripts\Mono Classes\MainMenu.cs:490)
+UnityEngine.GUI:CallWindowDelegate(WindowFunction, Int32, GUISkin, Int32, Single, Single, GUIStyle) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:1402)
+
+[C:/BuildAgent/work/d63dfc6385190b60/Runtime/IMGUI/TextMeshGenerator2.cpp line 76] 
+(Filename: C Line: 0)
+
+Font size and style overrides are only supported for dynamic fonts.
+UnityEngine.GUIStyle:Internal_DrawWithTextSelection(GUIContent, Internal_DrawWithTextSelectionArguments&)
+UnityEngine.GUIStyle:DrawWithTextSelection(Rect, GUIContent, Int32, Int32, Int32, Boolean) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUIStyleBindings.cs:837)
+UnityEngine.GUIStyle:DrawWithTextSelection(Rect, GUIContent, Int32, Int32, Int32) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUIStyleBindings.cs:842)
+UnityEngine.TextEditor:DrawCursor(String) (at C:\BuildAgent\work\d63dfc6385190b60\Runtime\Export\TextEditor.cs:973)
+UnityEngine.GUI:DoTextField(Rect, Int32, GUIContent, Boolean, Int32, GUIStyle) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:684)
+UnityEngine.GUI:TextField(Rect, String) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:440)
+MainMenu:UsernameWin(Int32) (at C:\Users\Khamraj\Documents\GitHub\LuminousVector\Assets\Scripts\Mono Classes\MainMenu.cs:490)
+UnityEngine.GUI:CallWindowDelegate(WindowFunction, Int32, GUISkin, Int32, Single, Single, GUIStyle) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:1402)
+
+[C:/BuildAgent/work/d63dfc6385190b60/Runtime/IMGUI/TextMeshGenerator2.cpp line 76] 
+(Filename: C Line: 0)
+
+Font size and style overrides are only supported for dynamic fonts.
+UnityEngine.GUIStyle:INTERNAL_CALL_Internal_GetCursorPixelPosition(IntPtr, Rect&, GUIContent, Int32, Vector2&)
+UnityEngine.GUIStyle:Internal_GetCursorPixelPosition(IntPtr, Rect, GUIContent, Int32, Vector2&) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUIStyleBindings.cs:868)
+UnityEngine.GUIStyle:GetCursorPixelPosition(Rect, GUIContent, Int32) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUIStyleBindings.cs:865)
+UnityEngine.TextEditor:UpdateScrollOffset() (at C:\BuildAgent\work\d63dfc6385190b60\Runtime\Export\TextEditor.cs:892)
+UnityEngine.TextEditor:ReplaceSelection(String) (at C:\BuildAgent\work\d63dfc6385190b60\Runtime\Export\TextEditor.cs:234)
+UnityEngine.TextEditor:Insert(Char) (at C:\BuildAgent\work\d63dfc6385190b60\Runtime\Export\TextEditor.cs:239)
+UnityEngine.GUI:DoTextField(Rect, Int32, GUIContent, Boolean, Int32, GUIStyle) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:664)
+UnityEngine.GUI:TextField(Rect, String) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:440)
+MainMenu:UsernameWin(Int32) (at C:\Users\Khamraj\Documents\GitHub\LuminousVector\Assets\Scripts\Mono Classes\MainMenu.cs:490)
+UnityEngine.GUI:CallWindowDelegate(WindowFunction, Int32, GUISkin, Int32, Single, Single, GUIStyle) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:1402)
+
+[C:/BuildAgent/work/d63dfc6385190b60/Runtime/IMGUI/TextMeshGenerator2.cpp line 76] 
+(Filename: C Line: 0)
+
+Font size and style overrides are only supported for dynamic fonts.
+UnityEngine.GUIStyle:Internal_DrawWithTextSelection(GUIContent, Internal_DrawWithTextSelectionArguments&)
+UnityEngine.GUIStyle:DrawWithTextSelection(Rect, GUIContent, Int32, Int32, Int32, Boolean) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUIStyleBindings.cs:837)
+UnityEngine.GUIStyle:DrawWithTextSelection(Rect, GUIContent, Int32, Int32, Int32) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUIStyleBindings.cs:842)
+UnityEngine.TextEditor:DrawCursor(String) (at C:\BuildAgent\work\d63dfc6385190b60\Runtime\Export\TextEditor.cs:973)
+UnityEngine.GUI:DoTextField(Rect, Int32, GUIContent, Boolean, Int32, GUIStyle) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:684)
+UnityEngine.GUI:TextField(Rect, String) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:440)
+MainMenu:UsernameWin(Int32) (at C:\Users\Khamraj\Documents\GitHub\LuminousVector\Assets\Scripts\Mono Classes\MainMenu.cs:490)
+UnityEngine.GUI:CallWindowDelegate(WindowFunction, Int32, GUISkin, Int32, Single, Single, GUIStyle) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:1402)
+
+[C:/BuildAgent/work/d63dfc6385190b60/Runtime/IMGUI/TextMeshGenerator2.cpp line 76] 
+(Filename: C Line: 0)
+
+Font size and style overrides are only supported for dynamic fonts.
+UnityEngine.GUIStyle:INTERNAL_CALL_Internal_GetCursorPixelPosition(IntPtr, Rect&, GUIContent, Int32, Vector2&)
+UnityEngine.GUIStyle:Internal_GetCursorPixelPosition(IntPtr, Rect, GUIContent, Int32, Vector2&) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUIStyleBindings.cs:868)
+UnityEngine.GUIStyle:GetCursorPixelPosition(Rect, GUIContent, Int32) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUIStyleBindings.cs:865)
+UnityEngine.TextEditor:UpdateScrollOffset() (at C:\BuildAgent\work\d63dfc6385190b60\Runtime\Export\TextEditor.cs:892)
+UnityEngine.TextEditor:ReplaceSelection(String) (at C:\BuildAgent\work\d63dfc6385190b60\Runtime\Export\TextEditor.cs:234)
+UnityEngine.TextEditor:Insert(Char) (at C:\BuildAgent\work\d63dfc6385190b60\Runtime\Export\TextEditor.cs:239)
+UnityEngine.GUI:DoTextField(Rect, Int32, GUIContent, Boolean, Int32, GUIStyle) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:664)
+UnityEngine.GUI:TextField(Rect, String) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:440)
+MainMenu:UsernameWin(Int32) (at C:\Users\Khamraj\Documents\GitHub\LuminousVector\Assets\Scripts\Mono Classes\MainMenu.cs:490)
+UnityEngine.GUI:CallWindowDelegate(WindowFunction, Int32, GUISkin, Int32, Single, Single, GUIStyle) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:1402)
+
+[C:/BuildAgent/work/d63dfc6385190b60/Runtime/IMGUI/TextMeshGenerator2.cpp line 76] 
+(Filename: C Line: 0)
+
+Font size and style overrides are only supported for dynamic fonts.
+UnityEngine.GUIStyle:Internal_DrawWithTextSelection(GUIContent, Internal_DrawWithTextSelectionArguments&)
+UnityEngine.GUIStyle:DrawWithTextSelection(Rect, GUIContent, Int32, Int32, Int32, Boolean) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUIStyleBindings.cs:837)
+UnityEngine.GUIStyle:DrawWithTextSelection(Rect, GUIContent, Int32, Int32, Int32) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUIStyleBindings.cs:842)
+UnityEngine.TextEditor:DrawCursor(String) (at C:\BuildAgent\work\d63dfc6385190b60\Runtime\Export\TextEditor.cs:973)
+UnityEngine.GUI:DoTextField(Rect, Int32, GUIContent, Boolean, Int32, GUIStyle) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:684)
+UnityEngine.GUI:TextField(Rect, String) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:440)
+MainMenu:UsernameWin(Int32) (at C:\Users\Khamraj\Documents\GitHub\LuminousVector\Assets\Scripts\Mono Classes\MainMenu.cs:490)
+UnityEngine.GUI:CallWindowDelegate(WindowFunction, Int32, GUISkin, Int32, Single, Single, GUIStyle) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:1402)
+
+[C:/BuildAgent/work/d63dfc6385190b60/Runtime/IMGUI/TextMeshGenerator2.cpp line 76] 
+(Filename: C Line: 0)
+
+Font size and style overrides are only supported for dynamic fonts.
+UnityEngine.GUIStyle:INTERNAL_CALL_Internal_GetCursorPixelPosition(IntPtr, Rect&, GUIContent, Int32, Vector2&)
+UnityEngine.GUIStyle:Internal_GetCursorPixelPosition(IntPtr, Rect, GUIContent, Int32, Vector2&) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUIStyleBindings.cs:868)
+UnityEngine.GUIStyle:GetCursorPixelPosition(Rect, GUIContent, Int32) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUIStyleBindings.cs:865)
+UnityEngine.TextEditor:UpdateScrollOffset() (at C:\BuildAgent\work\d63dfc6385190b60\Runtime\Export\TextEditor.cs:892)
+UnityEngine.TextEditor:ReplaceSelection(String) (at C:\BuildAgent\work\d63dfc6385190b60\Runtime\Export\TextEditor.cs:234)
+UnityEngine.TextEditor:Insert(Char) (at C:\BuildAgent\work\d63dfc6385190b60\Runtime\Export\TextEditor.cs:239)
+UnityEngine.GUI:DoTextField(Rect, Int32, GUIContent, Boolean, Int32, GUIStyle) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:664)
+UnityEngine.GUI:TextField(Rect, String) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:440)
+MainMenu:UsernameWin(Int32) (at C:\Users\Khamraj\Documents\GitHub\LuminousVector\Assets\Scripts\Mono Classes\MainMenu.cs:490)
+UnityEngine.GUI:CallWindowDelegate(WindowFunction, Int32, GUISkin, Int32, Single, Single, GUIStyle) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:1402)
+
+[C:/BuildAgent/work/d63dfc6385190b60/Runtime/IMGUI/TextMeshGenerator2.cpp line 76] 
+(Filename: C Line: 0)
+
+Font size and style overrides are only supported for dynamic fonts.
+UnityEngine.GUIStyle:Internal_DrawWithTextSelection(GUIContent, Internal_DrawWithTextSelectionArguments&)
+UnityEngine.GUIStyle:DrawWithTextSelection(Rect, GUIContent, Int32, Int32, Int32, Boolean) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUIStyleBindings.cs:837)
+UnityEngine.GUIStyle:DrawWithTextSelection(Rect, GUIContent, Int32, Int32, Int32) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUIStyleBindings.cs:842)
+UnityEngine.TextEditor:DrawCursor(String) (at C:\BuildAgent\work\d63dfc6385190b60\Runtime\Export\TextEditor.cs:973)
+UnityEngine.GUI:DoTextField(Rect, Int32, GUIContent, Boolean, Int32, GUIStyle) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:684)
+UnityEngine.GUI:TextField(Rect, String) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:440)
+MainMenu:UsernameWin(Int32) (at C:\Users\Khamraj\Documents\GitHub\LuminousVector\Assets\Scripts\Mono Classes\MainMenu.cs:490)
+UnityEngine.GUI:CallWindowDelegate(WindowFunction, Int32, GUISkin, Int32, Single, Single, GUIStyle) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:1402)
+
+[C:/BuildAgent/work/d63dfc6385190b60/Runtime/IMGUI/TextMeshGenerator2.cpp line 76] 
+(Filename: C Line: 0)
+
+Font size and style overrides are only supported for dynamic fonts.
+UnityEngine.GUIStyle:INTERNAL_CALL_Internal_GetCursorPixelPosition(IntPtr, Rect&, GUIContent, Int32, Vector2&)
+UnityEngine.GUIStyle:Internal_GetCursorPixelPosition(IntPtr, Rect, GUIContent, Int32, Vector2&) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUIStyleBindings.cs:868)
+UnityEngine.GUIStyle:GetCursorPixelPosition(Rect, GUIContent, Int32) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUIStyleBindings.cs:865)
+UnityEngine.TextEditor:UpdateScrollOffset() (at C:\BuildAgent\work\d63dfc6385190b60\Runtime\Export\TextEditor.cs:892)
+UnityEngine.TextEditor:HandleKeyEvent(Event) (at C:\BuildAgent\work\d63dfc6385190b60\Runtime\Export\TextEditor.cs:75)
+UnityEngine.GUI:DoTextField(Rect, Int32, GUIContent, Boolean, Int32, GUIStyle) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:643)
+UnityEngine.GUI:TextField(Rect, String) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:440)
+MainMenu:UsernameWin(Int32) (at C:\Users\Khamraj\Documents\GitHub\LuminousVector\Assets\Scripts\Mono Classes\MainMenu.cs:490)
+UnityEngine.GUI:CallWindowDelegate(WindowFunction, Int32, GUISkin, Int32, Single, Single, GUIStyle) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:1402)
+
+[C:/BuildAgent/work/d63dfc6385190b60/Runtime/IMGUI/TextMeshGenerator2.cpp line 76] 
+(Filename: C Line: 0)
+
+Font size and style overrides are only supported for dynamic fonts.
+UnityEngine.GUIStyle:Internal_DrawWithTextSelection(GUIContent, Internal_DrawWithTextSelectionArguments&)
+UnityEngine.GUIStyle:DrawWithTextSelection(Rect, GUIContent, Int32, Int32, Int32, Boolean) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUIStyleBindings.cs:837)
+UnityEngine.GUIStyle:DrawWithTextSelection(Rect, GUIContent, Int32, Int32, Int32) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUIStyleBindings.cs:842)
+UnityEngine.TextEditor:DrawCursor(String) (at C:\BuildAgent\work\d63dfc6385190b60\Runtime\Export\TextEditor.cs:973)
+UnityEngine.GUI:DoTextField(Rect, Int32, GUIContent, Boolean, Int32, GUIStyle) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:684)
+UnityEngine.GUI:TextField(Rect, String) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:440)
+MainMenu:UsernameWin(Int32) (at C:\Users\Khamraj\Documents\GitHub\LuminousVector\Assets\Scripts\Mono Classes\MainMenu.cs:490)
+UnityEngine.GUI:CallWindowDelegate(WindowFunction, Int32, GUISkin, Int32, Single, Single, GUIStyle) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:1402)
+
+[C:/BuildAgent/work/d63dfc6385190b60/Runtime/IMGUI/TextMeshGenerator2.cpp line 76] 
+(Filename: C Line: 0)
+
+Font size and style overrides are only supported for dynamic fonts.
+UnityEngine.GUIStyle:INTERNAL_CALL_Internal_GetCursorPixelPosition(IntPtr, Rect&, GUIContent, Int32, Vector2&)
+UnityEngine.GUIStyle:Internal_GetCursorPixelPosition(IntPtr, Rect, GUIContent, Int32, Vector2&) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUIStyleBindings.cs:868)
+UnityEngine.GUIStyle:GetCursorPixelPosition(Rect, GUIContent, Int32) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUIStyleBindings.cs:865)
+UnityEngine.TextEditor:UpdateScrollOffset() (at C:\BuildAgent\work\d63dfc6385190b60\Runtime\Export\TextEditor.cs:892)
+UnityEngine.TextEditor:ReplaceSelection(String) (at C:\BuildAgent\work\d63dfc6385190b60\Runtime\Export\TextEditor.cs:234)
+UnityEngine.TextEditor:Insert(Char) (at C:\BuildAgent\work\d63dfc6385190b60\Runtime\Export\TextEditor.cs:239)
+UnityEngine.GUI:DoTextField(Rect, Int32, GUIContent, Boolean, Int32, GUIStyle) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:664)
+UnityEngine.GUI:TextField(Rect, String) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:440)
+MainMenu:UsernameWin(Int32) (at C:\Users\Khamraj\Documents\GitHub\LuminousVector\Assets\Scripts\Mono Classes\MainMenu.cs:490)
+UnityEngine.GUI:CallWindowDelegate(WindowFunction, Int32, GUISkin, Int32, Single, Single, GUIStyle) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:1402)
+
+[C:/BuildAgent/work/d63dfc6385190b60/Runtime/IMGUI/TextMeshGenerator2.cpp line 76] 
+(Filename: C Line: 0)
+
+Font size and style overrides are only supported for dynamic fonts.
+UnityEngine.GUIStyle:Internal_DrawWithTextSelection(GUIContent, Internal_DrawWithTextSelectionArguments&)
+UnityEngine.GUIStyle:DrawWithTextSelection(Rect, GUIContent, Int32, Int32, Int32, Boolean) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUIStyleBindings.cs:837)
+UnityEngine.GUIStyle:DrawWithTextSelection(Rect, GUIContent, Int32, Int32, Int32) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUIStyleBindings.cs:842)
+UnityEngine.TextEditor:DrawCursor(String) (at C:\BuildAgent\work\d63dfc6385190b60\Runtime\Export\TextEditor.cs:973)
+UnityEngine.GUI:DoTextField(Rect, Int32, GUIContent, Boolean, Int32, GUIStyle) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:684)
+UnityEngine.GUI:TextField(Rect, String) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:440)
+MainMenu:UsernameWin(Int32) (at C:\Users\Khamraj\Documents\GitHub\LuminousVector\Assets\Scripts\Mono Classes\MainMenu.cs:490)
+UnityEngine.GUI:CallWindowDelegate(WindowFunction, Int32, GUISkin, Int32, Single, Single, GUIStyle) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:1402)
+
+[C:/BuildAgent/work/d63dfc6385190b60/Runtime/IMGUI/TextMeshGenerator2.cpp line 76] 
+(Filename: C Line: 0)
+
+Font size and style overrides are only supported for dynamic fonts.
+UnityEngine.GUIStyle:INTERNAL_CALL_Internal_GetCursorPixelPosition(IntPtr, Rect&, GUIContent, Int32, Vector2&)
+UnityEngine.GUIStyle:Internal_GetCursorPixelPosition(IntPtr, Rect, GUIContent, Int32, Vector2&) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUIStyleBindings.cs:868)
+UnityEngine.GUIStyle:GetCursorPixelPosition(Rect, GUIContent, Int32) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUIStyleBindings.cs:865)
+UnityEngine.TextEditor:UpdateScrollOffset() (at C:\BuildAgent\work\d63dfc6385190b60\Runtime\Export\TextEditor.cs:892)
+UnityEngine.TextEditor:ReplaceSelection(String) (at C:\BuildAgent\work\d63dfc6385190b60\Runtime\Export\TextEditor.cs:234)
+UnityEngine.TextEditor:Insert(Char) (at C:\BuildAgent\work\d63dfc6385190b60\Runtime\Export\TextEditor.cs:239)
+UnityEngine.GUI:DoTextField(Rect, Int32, GUIContent, Boolean, Int32, GUIStyle) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:664)
+UnityEngine.GUI:TextField(Rect, String) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:440)
+MainMenu:UsernameWin(Int32) (at C:\Users\Khamraj\Documents\GitHub\LuminousVector\Assets\Scripts\Mono Classes\MainMenu.cs:490)
+UnityEngine.GUI:CallWindowDelegate(WindowFunction, Int32, GUISkin, Int32, Single, Single, GUIStyle) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:1402)
+
+[C:/BuildAgent/work/d63dfc6385190b60/Runtime/IMGUI/TextMeshGenerator2.cpp line 76] 
+(Filename: C Line: 0)
+
+Font size and style overrides are only supported for dynamic fonts.
+UnityEngine.GUIStyle:Internal_DrawWithTextSelection(GUIContent, Internal_DrawWithTextSelectionArguments&)
+UnityEngine.GUIStyle:DrawWithTextSelection(Rect, GUIContent, Int32, Int32, Int32, Boolean) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUIStyleBindings.cs:837)
+UnityEngine.GUIStyle:DrawWithTextSelection(Rect, GUIContent, Int32, Int32, Int32) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUIStyleBindings.cs:842)
+UnityEngine.TextEditor:DrawCursor(String) (at C:\BuildAgent\work\d63dfc6385190b60\Runtime\Export\TextEditor.cs:973)
+UnityEngine.GUI:DoTextField(Rect, Int32, GUIContent, Boolean, Int32, GUIStyle) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:684)
+UnityEngine.GUI:TextField(Rect, String) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:440)
+MainMenu:UsernameWin(Int32) (at C:\Users\Khamraj\Documents\GitHub\LuminousVector\Assets\Scripts\Mono Classes\MainMenu.cs:490)
+UnityEngine.GUI:CallWindowDelegate(WindowFunction, Int32, GUISkin, Int32, Single, Single, GUIStyle) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:1402)
+
+[C:/BuildAgent/work/d63dfc6385190b60/Runtime/IMGUI/TextMeshGenerator2.cpp line 76] 
+(Filename: C Line: 0)
+
+Font size and style overrides are only supported for dynamic fonts.
+UnityEngine.GUIStyle:INTERNAL_CALL_Internal_GetCursorPixelPosition(IntPtr, Rect&, GUIContent, Int32, Vector2&)
+UnityEngine.GUIStyle:Internal_GetCursorPixelPosition(IntPtr, Rect, GUIContent, Int32, Vector2&) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUIStyleBindings.cs:868)
+UnityEngine.GUIStyle:GetCursorPixelPosition(Rect, GUIContent, Int32) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUIStyleBindings.cs:865)
+UnityEngine.TextEditor:UpdateScrollOffset() (at C:\BuildAgent\work\d63dfc6385190b60\Runtime\Export\TextEditor.cs:892)
+UnityEngine.TextEditor:ReplaceSelection(String) (at C:\BuildAgent\work\d63dfc6385190b60\Runtime\Export\TextEditor.cs:234)
+UnityEngine.TextEditor:Insert(Char) (at C:\BuildAgent\work\d63dfc6385190b60\Runtime\Export\TextEditor.cs:239)
+UnityEngine.GUI:DoTextField(Rect, Int32, GUIContent, Boolean, Int32, GUIStyle) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:664)
+UnityEngine.GUI:TextField(Rect, String) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:440)
+MainMenu:UsernameWin(Int32) (at C:\Users\Khamraj\Documents\GitHub\LuminousVector\Assets\Scripts\Mono Classes\MainMenu.cs:490)
+UnityEngine.GUI:CallWindowDelegate(WindowFunction, Int32, GUISkin, Int32, Single, Single, GUIStyle) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:1402)
+
+[C:/BuildAgent/work/d63dfc6385190b60/Runtime/IMGUI/TextMeshGenerator2.cpp line 76] 
+(Filename: C Line: 0)
+
+Font size and style overrides are only supported for dynamic fonts.
+UnityEngine.GUIStyle:Internal_DrawWithTextSelection(GUIContent, Internal_DrawWithTextSelectionArguments&)
+UnityEngine.GUIStyle:DrawWithTextSelection(Rect, GUIContent, Int32, Int32, Int32, Boolean) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUIStyleBindings.cs:837)
+UnityEngine.GUIStyle:DrawWithTextSelection(Rect, GUIContent, Int32, Int32, Int32) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUIStyleBindings.cs:842)
+UnityEngine.TextEditor:DrawCursor(String) (at C:\BuildAgent\work\d63dfc6385190b60\Runtime\Export\TextEditor.cs:973)
+UnityEngine.GUI:DoTextField(Rect, Int32, GUIContent, Boolean, Int32, GUIStyle) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:684)
+UnityEngine.GUI:TextField(Rect, String) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:440)
+MainMenu:UsernameWin(Int32) (at C:\Users\Khamraj\Documents\GitHub\LuminousVector\Assets\Scripts\Mono Classes\MainMenu.cs:490)
+UnityEngine.GUI:CallWindowDelegate(WindowFunction, Int32, GUISkin, Int32, Single, Single, GUIStyle) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:1402)
+
+[C:/BuildAgent/work/d63dfc6385190b60/Runtime/IMGUI/TextMeshGenerator2.cpp line 76] 
+(Filename: C Line: 0)
+
+Font size and style overrides are only supported for dynamic fonts.
+UnityEngine.GUIStyle:INTERNAL_CALL_Internal_GetCursorPixelPosition(IntPtr, Rect&, GUIContent, Int32, Vector2&)
+UnityEngine.GUIStyle:Internal_GetCursorPixelPosition(IntPtr, Rect, GUIContent, Int32, Vector2&) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUIStyleBindings.cs:868)
+UnityEngine.GUIStyle:GetCursorPixelPosition(Rect, GUIContent, Int32) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUIStyleBindings.cs:865)
+UnityEngine.TextEditor:UpdateScrollOffset() (at C:\BuildAgent\work\d63dfc6385190b60\Runtime\Export\TextEditor.cs:892)
+UnityEngine.TextEditor:ReplaceSelection(String) (at C:\BuildAgent\work\d63dfc6385190b60\Runtime\Export\TextEditor.cs:234)
+UnityEngine.TextEditor:Insert(Char) (at C:\BuildAgent\work\d63dfc6385190b60\Runtime\Export\TextEditor.cs:239)
+UnityEngine.GUI:DoTextField(Rect, Int32, GUIContent, Boolean, Int32, GUIStyle) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:664)
+UnityEngine.GUI:TextField(Rect, String) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:440)
+MainMenu:UsernameWin(Int32) (at C:\Users\Khamraj\Documents\GitHub\LuminousVector\Assets\Scripts\Mono Classes\MainMenu.cs:490)
+UnityEngine.GUI:CallWindowDelegate(WindowFunction, Int32, GUISkin, Int32, Single, Single, GUIStyle) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:1402)
+
+[C:/BuildAgent/work/d63dfc6385190b60/Runtime/IMGUI/TextMeshGenerator2.cpp line 76] 
+(Filename: C Line: 0)
+
+Font size and style overrides are only supported for dynamic fonts.
+UnityEngine.GUIStyle:Internal_DrawWithTextSelection(GUIContent, Internal_DrawWithTextSelectionArguments&)
+UnityEngine.GUIStyle:DrawWithTextSelection(Rect, GUIContent, Int32, Int32, Int32, Boolean) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUIStyleBindings.cs:837)
+UnityEngine.GUIStyle:DrawWithTextSelection(Rect, GUIContent, Int32, Int32, Int32) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUIStyleBindings.cs:842)
+UnityEngine.TextEditor:DrawCursor(String) (at C:\BuildAgent\work\d63dfc6385190b60\Runtime\Export\TextEditor.cs:973)
+UnityEngine.GUI:DoTextField(Rect, Int32, GUIContent, Boolean, Int32, GUIStyle) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:684)
+UnityEngine.GUI:TextField(Rect, String) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:440)
+MainMenu:UsernameWin(Int32) (at C:\Users\Khamraj\Documents\GitHub\LuminousVector\Assets\Scripts\Mono Classes\MainMenu.cs:490)
+UnityEngine.GUI:CallWindowDelegate(WindowFunction, Int32, GUISkin, Int32, Single, Single, GUIStyle) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:1402)
+
+[C:/BuildAgent/work/d63dfc6385190b60/Runtime/IMGUI/TextMeshGenerator2.cpp line 76] 
+(Filename: C Line: 0)
+
+Loading Levels
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MainMenu:GetLevels() (at C:\Users\Khamraj\Documents\GitHub\LuminousVector\Assets\Scripts\Mono Classes\MainMenu.cs:154)
+MainMenu:Update() (at C:\Users\Khamraj\Documents\GitHub\LuminousVector\Assets\Scripts\Mono Classes\MainMenu.cs:186)
+ 
+(Filename: C Line: 0)
+
+C:/Users/Khamraj/Documents/GitHub/LuminousVector/LuminousVector_Data
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+DataMap:SaveData() (at C:\Users\Khamraj\Documents\GitHub\LuminousVector\Assets\Scripts\Game Classes\DataMap.cs:222)
+MainMenu:SaveSettings() (at C:\Users\Khamraj\Documents\GitHub\LuminousVector\Assets\Scripts\Mono Classes\MainMenu.cs:807)
+MainMenu:OptionsMenu(Int32) (at C:\Users\Khamraj\Documents\GitHub\LuminousVector\Assets\Scripts\Mono Classes\MainMenu.cs:745)
+UnityEngine.GUI:CallWindowDelegate(WindowFunction, Int32, GUISkin, Int32, Single, Single, GUIStyle) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:1402)
+ 
+(Filename: C Line: 0)
+
+C:/Users/Khamraj/Documents/GitHub/LuminousVector/LuminousVector_Data
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+ControlMap:SaveData() (at C:\Users\Khamraj\Documents\GitHub\LuminousVector\Assets\Scripts\Game Classes\ControlMap.cs:55)
+MainMenu:SaveSettings() (at C:\Users\Khamraj\Documents\GitHub\LuminousVector\Assets\Scripts\Mono Classes\MainMenu.cs:808)
+MainMenu:OptionsMenu(Int32) (at C:\Users\Khamraj\Documents\GitHub\LuminousVector\Assets\Scripts\Mono Classes\MainMenu.cs:745)
+UnityEngine.GUI:CallWindowDelegate(WindowFunction, Int32, GUISkin, Int32, Single, Single, GUIStyle) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:1402)
+ 
+(Filename: C Line: 0)
+
+Loading Levels
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MainMenu:GetLevels() (at C:\Users\Khamraj\Documents\GitHub\LuminousVector\Assets\Scripts\Mono Classes\MainMenu.cs:154)
+MainMenu:Update() (at C:\Users\Khamraj\Documents\GitHub\LuminousVector\Assets\Scripts\Mono Classes\MainMenu.cs:186)
+ 
+(Filename: C Line: 0)
+
+Font size and style overrides are only supported for dynamic fonts.
+UnityEngine.GUIStyle:INTERNAL_CALL_Internal_Draw2(IntPtr, Rect&, GUIContent, Int32, Boolean)
+UnityEngine.GUIStyle:Internal_Draw2(IntPtr, Rect, GUIContent, Int32, Boolean) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUIStyleBindings.cs:748)
+UnityEngine.GUIStyle:Draw(Rect, GUIContent, Int32, Boolean) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUIStyleBindings.cs:741)
+UnityEngine.GUI:DoTextField(Rect, Int32, GUIContent, Boolean, Int32, GUIStyle) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:682)
+UnityEngine.GUI:TextField(Rect, String) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:440)
+MainMenu:EditLevels(Int32) (at C:\Users\Khamraj\Documents\GitHub\LuminousVector\Assets\Scripts\Mono Classes\MainMenu.cs:572)
+UnityEngine.GUI:CallWindowDelegate(WindowFunction, Int32, GUISkin, Int32, Single, Single, GUIStyle) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:1402)
+
+[C:/BuildAgent/work/d63dfc6385190b60/Runtime/IMGUI/TextMeshGenerator2.cpp line 76] 
+(Filename: C Line: 0)
+
+Font size and style overrides are only supported for dynamic fonts.
+UnityEngine.GUIStyle:INTERNAL_CALL_Internal_Draw2(IntPtr, Rect&, GUIContent, Int32, Boolean)
+UnityEngine.GUIStyle:Internal_Draw2(IntPtr, Rect, GUIContent, Int32, Boolean) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUIStyleBindings.cs:748)
+UnityEngine.GUIStyle:Draw(Rect, GUIContent, Int32, Boolean) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUIStyleBindings.cs:741)
+UnityEngine.GUI:DoTextField(Rect, Int32, GUIContent, Boolean, Int32, GUIStyle) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:682)
+UnityEngine.GUI:TextField(Rect, String) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:440)
+MainMenu:EditLevels(Int32) (at C:\Users\Khamraj\Documents\GitHub\LuminousVector\Assets\Scripts\Mono Classes\MainMenu.cs:572)
+UnityEngine.GUI:CallWindowDelegate(WindowFunction, Int32, GUISkin, Int32, Single, Single, GUIStyle) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:1402)
+
+[C:/BuildAgent/work/d63dfc6385190b60/Runtime/IMGUI/TextMeshGenerator2.cpp line 76] 
+(Filename: C Line: 0)
+
+Font size and style overrides are only supported for dynamic fonts.
+UnityEngine.GUIStyle:INTERNAL_CALL_Internal_GetCursorStringIndex(IntPtr, Rect&, GUIContent, Vector2&)
+UnityEngine.GUIStyle:Internal_GetCursorStringIndex(IntPtr, Rect, GUIContent, Vector2) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUIStyleBindings.cs:879)
+UnityEngine.GUIStyle:GetCursorStringIndex(Rect, GUIContent, Vector2) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUIStyleBindings.cs:875)
+UnityEngine.TextEditor:MoveCursorToPosition(Vector2) (at C:\BuildAgent\work\d63dfc6385190b60\Runtime\Export\TextEditor.cs:413)
+UnityEngine.GUI:DoTextField(Rect, Int32, GUIContent, Boolean, Int32, GUIStyle) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:609)
+UnityEngine.GUI:TextField(Rect, String) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:440)
+MainMenu:EditLevels(Int32) (at C:\Users\Khamraj\Documents\GitHub\LuminousVector\Assets\Scripts\Mono Classes\MainMenu.cs:572)
+UnityEngine.GUI:CallWindowDelegate(WindowFunction, Int32, GUISkin, Int32, Single, Single, GUIStyle) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:1402)
+
+[C:/BuildAgent/work/d63dfc6385190b60/Runtime/IMGUI/TextMeshGenerator2.cpp line 76] 
+(Filename: C Line: 0)
+
+Font size and style overrides are only supported for dynamic fonts.
+UnityEngine.GUIStyle:Internal_DrawWithTextSelection(GUIContent, Internal_DrawWithTextSelectionArguments&)
+UnityEngine.GUIStyle:DrawWithTextSelection(Rect, GUIContent, Int32, Int32, Int32, Boolean) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUIStyleBindings.cs:837)
+UnityEngine.GUIStyle:DrawWithTextSelection(Rect, GUIContent, Int32, Int32, Int32) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUIStyleBindings.cs:842)
+UnityEngine.TextEditor:DrawCursor(String) (at C:\BuildAgent\work\d63dfc6385190b60\Runtime\Export\TextEditor.cs:973)
+UnityEngine.GUI:DoTextField(Rect, Int32, GUIContent, Boolean, Int32, GUIStyle) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:684)
+UnityEngine.GUI:TextField(Rect, String) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:440)
+MainMenu:EditLevels(Int32) (at C:\Users\Khamraj\Documents\GitHub\LuminousVector\Assets\Scripts\Mono Classes\MainMenu.cs:572)
+UnityEngine.GUI:CallWindowDelegate(WindowFunction, Int32, GUISkin, Int32, Single, Single, GUIStyle) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:1402)
+
+[C:/BuildAgent/work/d63dfc6385190b60/Runtime/IMGUI/TextMeshGenerator2.cpp line 76] 
+(Filename: C Line: 0)
+
+Font size and style overrides are only supported for dynamic fonts.
+UnityEngine.GUIStyle:INTERNAL_CALL_Internal_GetCursorPixelPosition(IntPtr, Rect&, GUIContent, Int32, Vector2&)
+UnityEngine.GUIStyle:Internal_GetCursorPixelPosition(IntPtr, Rect, GUIContent, Int32, Vector2&) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUIStyleBindings.cs:868)
+UnityEngine.GUIStyle:GetCursorPixelPosition(Rect, GUIContent, Int32) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUIStyleBindings.cs:865)
+UnityEngine.TextEditor:UpdateScrollOffset() (at C:\BuildAgent\work\d63dfc6385190b60\Runtime\Export\TextEditor.cs:892)
+UnityEngine.TextEditor:HandleKeyEvent(Event) (at C:\BuildAgent\work\d63dfc6385190b60\Runtime\Export\TextEditor.cs:75)
+UnityEngine.GUI:DoTextField(Rect, Int32, GUIContent, Boolean, Int32, GUIStyle) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:643)
+UnityEngine.GUI:TextField(Rect, String) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:440)
+MainMenu:EditLevels(Int32) (at C:\Users\Khamraj\Documents\GitHub\LuminousVector\Assets\Scripts\Mono Classes\MainMenu.cs:572)
+UnityEngine.GUI:CallWindowDelegate(WindowFunction, Int32, GUISkin, Int32, Single, Single, GUIStyle) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:1402)
+
+[C:/BuildAgent/work/d63dfc6385190b60/Runtime/IMGUI/TextMeshGenerator2.cpp line 76] 
+(Filename: C Line: 0)
+
+Font size and style overrides are only supported for dynamic fonts.
+UnityEngine.GUIStyle:Internal_DrawWithTextSelection(GUIContent, Internal_DrawWithTextSelectionArguments&)
+UnityEngine.GUIStyle:DrawWithTextSelection(Rect, GUIContent, Int32, Int32, Int32, Boolean) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUIStyleBindings.cs:837)
+UnityEngine.GUIStyle:DrawWithTextSelection(Rect, GUIContent, Int32, Int32, Int32) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUIStyleBindings.cs:842)
+UnityEngine.TextEditor:DrawCursor(String) (at C:\BuildAgent\work\d63dfc6385190b60\Runtime\Export\TextEditor.cs:973)
+UnityEngine.GUI:DoTextField(Rect, Int32, GUIContent, Boolean, Int32, GUIStyle) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:684)
+UnityEngine.GUI:TextField(Rect, String) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:440)
+MainMenu:EditLevels(Int32) (at C:\Users\Khamraj\Documents\GitHub\LuminousVector\Assets\Scripts\Mono Classes\MainMenu.cs:572)
+UnityEngine.GUI:CallWindowDelegate(WindowFunction, Int32, GUISkin, Int32, Single, Single, GUIStyle) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:1402)
+
+[C:/BuildAgent/work/d63dfc6385190b60/Runtime/IMGUI/TextMeshGenerator2.cpp line 76] 
+(Filename: C Line: 0)
+
+Font size and style overrides are only supported for dynamic fonts.
+UnityEngine.GUIStyle:INTERNAL_CALL_Internal_GetCursorPixelPosition(IntPtr, Rect&, GUIContent, Int32, Vector2&)
+UnityEngine.GUIStyle:Internal_GetCursorPixelPosition(IntPtr, Rect, GUIContent, Int32, Vector2&) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUIStyleBindings.cs:868)
+UnityEngine.GUIStyle:GetCursorPixelPosition(Rect, GUIContent, Int32) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUIStyleBindings.cs:865)
+UnityEngine.TextEditor:UpdateScrollOffset() (at C:\BuildAgent\work\d63dfc6385190b60\Runtime\Export\TextEditor.cs:892)
+UnityEngine.TextEditor:HandleKeyEvent(Event) (at C:\BuildAgent\work\d63dfc6385190b60\Runtime\Export\TextEditor.cs:75)
+UnityEngine.GUI:DoTextField(Rect, Int32, GUIContent, Boolean, Int32, GUIStyle) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:643)
+UnityEngine.GUI:TextField(Rect, String) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:440)
+MainMenu:EditLevels(Int32) (at C:\Users\Khamraj\Documents\GitHub\LuminousVector\Assets\Scripts\Mono Classes\MainMenu.cs:572)
+UnityEngine.GUI:CallWindowDelegate(WindowFunction, Int32, GUISkin, Int32, Single, Single, GUIStyle) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:1402)
+
+[C:/BuildAgent/work/d63dfc6385190b60/Runtime/IMGUI/TextMeshGenerator2.cpp line 76] 
+(Filename: C Line: 0)
+
+Font size and style overrides are only supported for dynamic fonts.
+UnityEngine.GUIStyle:Internal_DrawWithTextSelection(GUIContent, Internal_DrawWithTextSelectionArguments&)
+UnityEngine.GUIStyle:DrawWithTextSelection(Rect, GUIContent, Int32, Int32, Int32, Boolean) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUIStyleBindings.cs:837)
+UnityEngine.GUIStyle:DrawWithTextSelection(Rect, GUIContent, Int32, Int32, Int32) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUIStyleBindings.cs:842)
+UnityEngine.TextEditor:DrawCursor(String) (at C:\BuildAgent\work\d63dfc6385190b60\Runtime\Export\TextEditor.cs:973)
+UnityEngine.GUI:DoTextField(Rect, Int32, GUIContent, Boolean, Int32, GUIStyle) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:684)
+UnityEngine.GUI:TextField(Rect, String) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:440)
+MainMenu:EditLevels(Int32) (at C:\Users\Khamraj\Documents\GitHub\LuminousVector\Assets\Scripts\Mono Classes\MainMenu.cs:572)
+UnityEngine.GUI:CallWindowDelegate(WindowFunction, Int32, GUISkin, Int32, Single, Single, GUIStyle) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:1402)
+
+[C:/BuildAgent/work/d63dfc6385190b60/Runtime/IMGUI/TextMeshGenerator2.cpp line 76] 
+(Filename: C Line: 0)
+
+Font size and style overrides are only supported for dynamic fonts.
+UnityEngine.GUIStyle:INTERNAL_CALL_Internal_GetCursorPixelPosition(IntPtr, Rect&, GUIContent, Int32, Vector2&)
+UnityEngine.GUIStyle:Internal_GetCursorPixelPosition(IntPtr, Rect, GUIContent, Int32, Vector2&) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUIStyleBindings.cs:868)
+UnityEngine.GUIStyle:GetCursorPixelPosition(Rect, GUIContent, Int32) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUIStyleBindings.cs:865)
+UnityEngine.TextEditor:UpdateScrollOffset() (at C:\BuildAgent\work\d63dfc6385190b60\Runtime\Export\TextEditor.cs:892)
+UnityEngine.TextEditor:HandleKeyEvent(Event) (at C:\BuildAgent\work\d63dfc6385190b60\Runtime\Export\TextEditor.cs:75)
+UnityEngine.GUI:DoTextField(Rect, Int32, GUIContent, Boolean, Int32, GUIStyle) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:643)
+UnityEngine.GUI:TextField(Rect, String) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:440)
+MainMenu:EditLevels(Int32) (at C:\Users\Khamraj\Documents\GitHub\LuminousVector\Assets\Scripts\Mono Classes\MainMenu.cs:572)
+UnityEngine.GUI:CallWindowDelegate(WindowFunction, Int32, GUISkin, Int32, Single, Single, GUIStyle) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:1402)
+
+[C:/BuildAgent/work/d63dfc6385190b60/Runtime/IMGUI/TextMeshGenerator2.cpp line 76] 
+(Filename: C Line: 0)
+
+Font size and style overrides are only supported for dynamic fonts.
+UnityEngine.GUIStyle:Internal_DrawWithTextSelection(GUIContent, Internal_DrawWithTextSelectionArguments&)
+UnityEngine.GUIStyle:DrawWithTextSelection(Rect, GUIContent, Int32, Int32, Int32, Boolean) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUIStyleBindings.cs:837)
+UnityEngine.GUIStyle:DrawWithTextSelection(Rect, GUIContent, Int32, Int32, Int32) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUIStyleBindings.cs:842)
+UnityEngine.TextEditor:DrawCursor(String) (at C:\BuildAgent\work\d63dfc6385190b60\Runtime\Export\TextEditor.cs:973)
+UnityEngine.GUI:DoTextField(Rect, Int32, GUIContent, Boolean, Int32, GUIStyle) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:684)
+UnityEngine.GUI:TextField(Rect, String) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:440)
+MainMenu:EditLevels(Int32) (at C:\Users\Khamraj\Documents\GitHub\LuminousVector\Assets\Scripts\Mono Classes\MainMenu.cs:572)
+UnityEngine.GUI:CallWindowDelegate(WindowFunction, Int32, GUISkin, Int32, Single, Single, GUIStyle) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:1402)
+
+[C:/BuildAgent/work/d63dfc6385190b60/Runtime/IMGUI/TextMeshGenerator2.cpp line 76] 
+(Filename: C Line: 0)
+
+Font size and style overrides are only supported for dynamic fonts.
+UnityEngine.GUIStyle:INTERNAL_CALL_Internal_GetCursorPixelPosition(IntPtr, Rect&, GUIContent, Int32, Vector2&)
+UnityEngine.GUIStyle:Internal_GetCursorPixelPosition(IntPtr, Rect, GUIContent, Int32, Vector2&) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUIStyleBindings.cs:868)
+UnityEngine.GUIStyle:GetCursorPixelPosition(Rect, GUIContent, Int32) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUIStyleBindings.cs:865)
+UnityEngine.TextEditor:UpdateScrollOffset() (at C:\BuildAgent\work\d63dfc6385190b60\Runtime\Export\TextEditor.cs:892)
+UnityEngine.TextEditor:HandleKeyEvent(Event) (at C:\BuildAgent\work\d63dfc6385190b60\Runtime\Export\TextEditor.cs:75)
+UnityEngine.GUI:DoTextField(Rect, Int32, GUIContent, Boolean, Int32, GUIStyle) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:643)
+UnityEngine.GUI:TextField(Rect, String) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:440)
+MainMenu:EditLevels(Int32) (at C:\Users\Khamraj\Documents\GitHub\LuminousVector\Assets\Scripts\Mono Classes\MainMenu.cs:572)
+UnityEngine.GUI:CallWindowDelegate(WindowFunction, Int32, GUISkin, Int32, Single, Single, GUIStyle) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:1402)
+
+[C:/BuildAgent/work/d63dfc6385190b60/Runtime/IMGUI/TextMeshGenerator2.cpp line 76] 
+(Filename: C Line: 0)
+
+Font size and style overrides are only supported for dynamic fonts.
+UnityEngine.GUIStyle:Internal_DrawWithTextSelection(GUIContent, Internal_DrawWithTextSelectionArguments&)
+UnityEngine.GUIStyle:DrawWithTextSelection(Rect, GUIContent, Int32, Int32, Int32, Boolean) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUIStyleBindings.cs:837)
+UnityEngine.GUIStyle:DrawWithTextSelection(Rect, GUIContent, Int32, Int32, Int32) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUIStyleBindings.cs:842)
+UnityEngine.TextEditor:DrawCursor(String) (at C:\BuildAgent\work\d63dfc6385190b60\Runtime\Export\TextEditor.cs:973)
+UnityEngine.GUI:DoTextField(Rect, Int32, GUIContent, Boolean, Int32, GUIStyle) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:684)
+UnityEngine.GUI:TextField(Rect, String) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:440)
+MainMenu:EditLevels(Int32) (at C:\Users\Khamraj\Documents\GitHub\LuminousVector\Assets\Scripts\Mono Classes\MainMenu.cs:572)
+UnityEngine.GUI:CallWindowDelegate(WindowFunction, Int32, GUISkin, Int32, Single, Single, GUIStyle) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:1402)
+
+[C:/BuildAgent/work/d63dfc6385190b60/Runtime/IMGUI/TextMeshGenerator2.cpp line 76] 
+(Filename: C Line: 0)
+
+Font size and style overrides are only supported for dynamic fonts.
+UnityEngine.GUIStyle:INTERNAL_CALL_Internal_GetCursorPixelPosition(IntPtr, Rect&, GUIContent, Int32, Vector2&)
+UnityEngine.GUIStyle:Internal_GetCursorPixelPosition(IntPtr, Rect, GUIContent, Int32, Vector2&) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUIStyleBindings.cs:868)
+UnityEngine.GUIStyle:GetCursorPixelPosition(Rect, GUIContent, Int32) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUIStyleBindings.cs:865)
+UnityEngine.TextEditor:UpdateScrollOffset() (at C:\BuildAgent\work\d63dfc6385190b60\Runtime\Export\TextEditor.cs:892)
+UnityEngine.TextEditor:HandleKeyEvent(Event) (at C:\BuildAgent\work\d63dfc6385190b60\Runtime\Export\TextEditor.cs:75)
+UnityEngine.GUI:DoTextField(Rect, Int32, GUIContent, Boolean, Int32, GUIStyle) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:643)
+UnityEngine.GUI:TextField(Rect, String) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:440)
+MainMenu:EditLevels(Int32) (at C:\Users\Khamraj\Documents\GitHub\LuminousVector\Assets\Scripts\Mono Classes\MainMenu.cs:572)
+UnityEngine.GUI:CallWindowDelegate(WindowFunction, Int32, GUISkin, Int32, Single, Single, GUIStyle) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:1402)
+
+[C:/BuildAgent/work/d63dfc6385190b60/Runtime/IMGUI/TextMeshGenerator2.cpp line 76] 
+(Filename: C Line: 0)
+
+Font size and style overrides are only supported for dynamic fonts.
+UnityEngine.GUIStyle:Internal_DrawWithTextSelection(GUIContent, Internal_DrawWithTextSelectionArguments&)
+UnityEngine.GUIStyle:DrawWithTextSelection(Rect, GUIContent, Int32, Int32, Int32, Boolean) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUIStyleBindings.cs:837)
+UnityEngine.GUIStyle:DrawWithTextSelection(Rect, GUIContent, Int32, Int32, Int32) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUIStyleBindings.cs:842)
+UnityEngine.TextEditor:DrawCursor(String) (at C:\BuildAgent\work\d63dfc6385190b60\Runtime\Export\TextEditor.cs:973)
+UnityEngine.GUI:DoTextField(Rect, Int32, GUIContent, Boolean, Int32, GUIStyle) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:684)
+UnityEngine.GUI:TextField(Rect, String) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:440)
+MainMenu:EditLevels(Int32) (at C:\Users\Khamraj\Documents\GitHub\LuminousVector\Assets\Scripts\Mono Classes\MainMenu.cs:572)
+UnityEngine.GUI:CallWindowDelegate(WindowFunction, Int32, GUISkin, Int32, Single, Single, GUIStyle) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:1402)
+
+[C:/BuildAgent/work/d63dfc6385190b60/Runtime/IMGUI/TextMeshGenerator2.cpp line 76] 
+(Filename: C Line: 0)
+
+Font size and style overrides are only supported for dynamic fonts.
+UnityEngine.GUIStyle:INTERNAL_CALL_Internal_GetCursorPixelPosition(IntPtr, Rect&, GUIContent, Int32, Vector2&)
+UnityEngine.GUIStyle:Internal_GetCursorPixelPosition(IntPtr, Rect, GUIContent, Int32, Vector2&) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUIStyleBindings.cs:868)
+UnityEngine.GUIStyle:GetCursorPixelPosition(Rect, GUIContent, Int32) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUIStyleBindings.cs:865)
+UnityEngine.TextEditor:UpdateScrollOffset() (at C:\BuildAgent\work\d63dfc6385190b60\Runtime\Export\TextEditor.cs:892)
+UnityEngine.TextEditor:HandleKeyEvent(Event) (at C:\BuildAgent\work\d63dfc6385190b60\Runtime\Export\TextEditor.cs:75)
+UnityEngine.GUI:DoTextField(Rect, Int32, GUIContent, Boolean, Int32, GUIStyle) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:643)
+UnityEngine.GUI:TextField(Rect, String) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:440)
+MainMenu:EditLevels(Int32) (at C:\Users\Khamraj\Documents\GitHub\LuminousVector\Assets\Scripts\Mono Classes\MainMenu.cs:572)
+UnityEngine.GUI:CallWindowDelegate(WindowFunction, Int32, GUISkin, Int32, Single, Single, GUIStyle) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:1402)
+
+[C:/BuildAgent/work/d63dfc6385190b60/Runtime/IMGUI/TextMeshGenerator2.cpp line 76] 
+(Filename: C Line: 0)
+
+Font size and style overrides are only supported for dynamic fonts.
+UnityEngine.GUIStyle:Internal_DrawWithTextSelection(GUIContent, Internal_DrawWithTextSelectionArguments&)
+UnityEngine.GUIStyle:DrawWithTextSelection(Rect, GUIContent, Int32, Int32, Int32, Boolean) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUIStyleBindings.cs:837)
+UnityEngine.GUIStyle:DrawWithTextSelection(Rect, GUIContent, Int32, Int32, Int32) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUIStyleBindings.cs:842)
+UnityEngine.TextEditor:DrawCursor(String) (at C:\BuildAgent\work\d63dfc6385190b60\Runtime\Export\TextEditor.cs:973)
+UnityEngine.GUI:DoTextField(Rect, Int32, GUIContent, Boolean, Int32, GUIStyle) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:684)
+UnityEngine.GUI:TextField(Rect, String) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:440)
+MainMenu:EditLevels(Int32) (at C:\Users\Khamraj\Documents\GitHub\LuminousVector\Assets\Scripts\Mono Classes\MainMenu.cs:572)
+UnityEngine.GUI:CallWindowDelegate(WindowFunction, Int32, GUISkin, Int32, Single, Single, GUIStyle) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:1402)
+
+[C:/BuildAgent/work/d63dfc6385190b60/Runtime/IMGUI/TextMeshGenerator2.cpp line 76] 
+(Filename: C Line: 0)
+
+Font size and style overrides are only supported for dynamic fonts.
+UnityEngine.GUIStyle:INTERNAL_CALL_Internal_GetCursorPixelPosition(IntPtr, Rect&, GUIContent, Int32, Vector2&)
+UnityEngine.GUIStyle:Internal_GetCursorPixelPosition(IntPtr, Rect, GUIContent, Int32, Vector2&) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUIStyleBindings.cs:868)
+UnityEngine.GUIStyle:GetCursorPixelPosition(Rect, GUIContent, Int32) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUIStyleBindings.cs:865)
+UnityEngine.TextEditor:UpdateScrollOffset() (at C:\BuildAgent\work\d63dfc6385190b60\Runtime\Export\TextEditor.cs:892)
+UnityEngine.TextEditor:HandleKeyEvent(Event) (at C:\BuildAgent\work\d63dfc6385190b60\Runtime\Export\TextEditor.cs:75)
+UnityEngine.GUI:DoTextField(Rect, Int32, GUIContent, Boolean, Int32, GUIStyle) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:643)
+UnityEngine.GUI:TextField(Rect, String) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:440)
+MainMenu:EditLevels(Int32) (at C:\Users\Khamraj\Documents\GitHub\LuminousVector\Assets\Scripts\Mono Classes\MainMenu.cs:572)
+UnityEngine.GUI:CallWindowDelegate(WindowFunction, Int32, GUISkin, Int32, Single, Single, GUIStyle) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:1402)
+
+[C:/BuildAgent/work/d63dfc6385190b60/Runtime/IMGUI/TextMeshGenerator2.cpp line 76] 
+(Filename: C Line: 0)
+
+Font size and style overrides are only supported for dynamic fonts.
+UnityEngine.GUIStyle:Internal_DrawWithTextSelection(GUIContent, Internal_DrawWithTextSelectionArguments&)
+UnityEngine.GUIStyle:DrawWithTextSelection(Rect, GUIContent, Int32, Int32, Int32, Boolean) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUIStyleBindings.cs:837)
+UnityEngine.GUIStyle:DrawWithTextSelection(Rect, GUIContent, Int32, Int32, Int32) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUIStyleBindings.cs:842)
+UnityEngine.TextEditor:DrawCursor(String) (at C:\BuildAgent\work\d63dfc6385190b60\Runtime\Export\TextEditor.cs:973)
+UnityEngine.GUI:DoTextField(Rect, Int32, GUIContent, Boolean, Int32, GUIStyle) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:684)
+UnityEngine.GUI:TextField(Rect, String) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:440)
+MainMenu:EditLevels(Int32) (at C:\Users\Khamraj\Documents\GitHub\LuminousVector\Assets\Scripts\Mono Classes\MainMenu.cs:572)
+UnityEngine.GUI:CallWindowDelegate(WindowFunction, Int32, GUISkin, Int32, Single, Single, GUIStyle) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:1402)
+
+[C:/BuildAgent/work/d63dfc6385190b60/Runtime/IMGUI/TextMeshGenerator2.cpp line 76] 
+(Filename: C Line: 0)
+
+Font size and style overrides are only supported for dynamic fonts.
+UnityEngine.GUIStyle:INTERNAL_CALL_Internal_GetCursorPixelPosition(IntPtr, Rect&, GUIContent, Int32, Vector2&)
+UnityEngine.GUIStyle:Internal_GetCursorPixelPosition(IntPtr, Rect, GUIContent, Int32, Vector2&) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUIStyleBindings.cs:868)
+UnityEngine.GUIStyle:GetCursorPixelPosition(Rect, GUIContent, Int32) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUIStyleBindings.cs:865)
+UnityEngine.TextEditor:UpdateScrollOffset() (at C:\BuildAgent\work\d63dfc6385190b60\Runtime\Export\TextEditor.cs:892)
+UnityEngine.TextEditor:HandleKeyEvent(Event) (at C:\BuildAgent\work\d63dfc6385190b60\Runtime\Export\TextEditor.cs:75)
+UnityEngine.GUI:DoTextField(Rect, Int32, GUIContent, Boolean, Int32, GUIStyle) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:643)
+UnityEngine.GUI:TextField(Rect, String) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:440)
+MainMenu:EditLevels(Int32) (at C:\Users\Khamraj\Documents\GitHub\LuminousVector\Assets\Scripts\Mono Classes\MainMenu.cs:572)
+UnityEngine.GUI:CallWindowDelegate(WindowFunction, Int32, GUISkin, Int32, Single, Single, GUIStyle) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:1402)
+
+[C:/BuildAgent/work/d63dfc6385190b60/Runtime/IMGUI/TextMeshGenerator2.cpp line 76] 
+(Filename: C Line: 0)
+
+Font size and style overrides are only supported for dynamic fonts.
+UnityEngine.GUIStyle:Internal_DrawWithTextSelection(GUIContent, Internal_DrawWithTextSelectionArguments&)
+UnityEngine.GUIStyle:DrawWithTextSelection(Rect, GUIContent, Int32, Int32, Int32, Boolean) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUIStyleBindings.cs:837)
+UnityEngine.GUIStyle:DrawWithTextSelection(Rect, GUIContent, Int32, Int32, Int32) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUIStyleBindings.cs:842)
+UnityEngine.TextEditor:DrawCursor(String) (at C:\BuildAgent\work\d63dfc6385190b60\Runtime\Export\TextEditor.cs:973)
+UnityEngine.GUI:DoTextField(Rect, Int32, GUIContent, Boolean, Int32, GUIStyle) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:684)
+UnityEngine.GUI:TextField(Rect, String) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:440)
+MainMenu:EditLevels(Int32) (at C:\Users\Khamraj\Documents\GitHub\LuminousVector\Assets\Scripts\Mono Classes\MainMenu.cs:572)
+UnityEngine.GUI:CallWindowDelegate(WindowFunction, Int32, GUISkin, Int32, Single, Single, GUIStyle) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:1402)
+
+[C:/BuildAgent/work/d63dfc6385190b60/Runtime/IMGUI/TextMeshGenerator2.cpp line 76] 
+(Filename: C Line: 0)
+
+Font size and style overrides are only supported for dynamic fonts.
+UnityEngine.GUIStyle:INTERNAL_CALL_Internal_GetCursorPixelPosition(IntPtr, Rect&, GUIContent, Int32, Vector2&)
+UnityEngine.GUIStyle:Internal_GetCursorPixelPosition(IntPtr, Rect, GUIContent, Int32, Vector2&) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUIStyleBindings.cs:868)
+UnityEngine.GUIStyle:GetCursorPixelPosition(Rect, GUIContent, Int32) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUIStyleBindings.cs:865)
+UnityEngine.TextEditor:UpdateScrollOffset() (at C:\BuildAgent\work\d63dfc6385190b60\Runtime\Export\TextEditor.cs:892)
+UnityEngine.TextEditor:HandleKeyEvent(Event) (at C:\BuildAgent\work\d63dfc6385190b60\Runtime\Export\TextEditor.cs:75)
+UnityEngine.GUI:DoTextField(Rect, Int32, GUIContent, Boolean, Int32, GUIStyle) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:643)
+UnityEngine.GUI:TextField(Rect, String) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:440)
+MainMenu:EditLevels(Int32) (at C:\Users\Khamraj\Documents\GitHub\LuminousVector\Assets\Scripts\Mono Classes\MainMenu.cs:572)
+UnityEngine.GUI:CallWindowDelegate(WindowFunction, Int32, GUISkin, Int32, Single, Single, GUIStyle) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:1402)
+
+[C:/BuildAgent/work/d63dfc6385190b60/Runtime/IMGUI/TextMeshGenerator2.cpp line 76] 
+(Filename: C Line: 0)
+
+Font size and style overrides are only supported for dynamic fonts.
+UnityEngine.GUIStyle:INTERNAL_CALL_Internal_GetCursorPixelPosition(IntPtr, Rect&, GUIContent, Int32, Vector2&)
+UnityEngine.GUIStyle:Internal_GetCursorPixelPosition(IntPtr, Rect, GUIContent, Int32, Vector2&) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUIStyleBindings.cs:868)
+UnityEngine.GUIStyle:GetCursorPixelPosition(Rect, GUIContent, Int32) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUIStyleBindings.cs:865)
+UnityEngine.TextEditor:UpdateScrollOffset() (at C:\BuildAgent\work\d63dfc6385190b60\Runtime\Export\TextEditor.cs:892)
+UnityEngine.TextEditor:ReplaceSelection(String) (at C:\BuildAgent\work\d63dfc6385190b60\Runtime\Export\TextEditor.cs:234)
+UnityEngine.TextEditor:Insert(Char) (at C:\BuildAgent\work\d63dfc6385190b60\Runtime\Export\TextEditor.cs:239)
+UnityEngine.GUI:DoTextField(Rect, Int32, GUIContent, Boolean, Int32, GUIStyle) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:664)
+UnityEngine.GUI:TextField(Rect, String) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:440)
+MainMenu:EditLevels(Int32) (at C:\Users\Khamraj\Documents\GitHub\LuminousVector\Assets\Scripts\Mono Classes\MainMenu.cs:572)
+UnityEngine.GUI:CallWindowDelegate(WindowFunction, Int32, GUISkin, Int32, Single, Single, GUIStyle) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:1402)
+
+[C:/BuildAgent/work/d63dfc6385190b60/Runtime/IMGUI/TextMeshGenerator2.cpp line 76] 
+(Filename: C Line: 0)
+
+Font size and style overrides are only supported for dynamic fonts.
+UnityEngine.GUIStyle:Internal_DrawWithTextSelection(GUIContent, Internal_DrawWithTextSelectionArguments&)
+UnityEngine.GUIStyle:DrawWithTextSelection(Rect, GUIContent, Int32, Int32, Int32, Boolean) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUIStyleBindings.cs:837)
+UnityEngine.GUIStyle:DrawWithTextSelection(Rect, GUIContent, Int32, Int32, Int32) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUIStyleBindings.cs:842)
+UnityEngine.TextEditor:DrawCursor(String) (at C:\BuildAgent\work\d63dfc6385190b60\Runtime\Export\TextEditor.cs:973)
+UnityEngine.GUI:DoTextField(Rect, Int32, GUIContent, Boolean, Int32, GUIStyle) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:684)
+UnityEngine.GUI:TextField(Rect, String) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:440)
+MainMenu:EditLevels(Int32) (at C:\Users\Khamraj\Documents\GitHub\LuminousVector\Assets\Scripts\Mono Classes\MainMenu.cs:572)
+UnityEngine.GUI:CallWindowDelegate(WindowFunction, Int32, GUISkin, Int32, Single, Single, GUIStyle) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:1402)
+
+[C:/BuildAgent/work/d63dfc6385190b60/Runtime/IMGUI/TextMeshGenerator2.cpp line 76] 
+(Filename: C Line: 0)
+
+Font size and style overrides are only supported for dynamic fonts.
+UnityEngine.GUIStyle:INTERNAL_CALL_Internal_GetCursorPixelPosition(IntPtr, Rect&, GUIContent, Int32, Vector2&)
+UnityEngine.GUIStyle:Internal_GetCursorPixelPosition(IntPtr, Rect, GUIContent, Int32, Vector2&) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUIStyleBindings.cs:868)
+UnityEngine.GUIStyle:GetCursorPixelPosition(Rect, GUIContent, Int32) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUIStyleBindings.cs:865)
+UnityEngine.TextEditor:UpdateScrollOffset() (at C:\BuildAgent\work\d63dfc6385190b60\Runtime\Export\TextEditor.cs:892)
+UnityEngine.TextEditor:ReplaceSelection(String) (at C:\BuildAgent\work\d63dfc6385190b60\Runtime\Export\TextEditor.cs:234)
+UnityEngine.TextEditor:Insert(Char) (at C:\BuildAgent\work\d63dfc6385190b60\Runtime\Export\TextEditor.cs:239)
+UnityEngine.GUI:DoTextField(Rect, Int32, GUIContent, Boolean, Int32, GUIStyle) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:664)
+UnityEngine.GUI:TextField(Rect, String) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:440)
+MainMenu:EditLevels(Int32) (at C:\Users\Khamraj\Documents\GitHub\LuminousVector\Assets\Scripts\Mono Classes\MainMenu.cs:572)
+UnityEngine.GUI:CallWindowDelegate(WindowFunction, Int32, GUISkin, Int32, Single, Single, GUIStyle) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:1402)
+
+[C:/BuildAgent/work/d63dfc6385190b60/Runtime/IMGUI/TextMeshGenerator2.cpp line 76] 
+(Filename: C Line: 0)
+
+Font size and style overrides are only supported for dynamic fonts.
+UnityEngine.GUIStyle:Internal_DrawWithTextSelection(GUIContent, Internal_DrawWithTextSelectionArguments&)
+UnityEngine.GUIStyle:DrawWithTextSelection(Rect, GUIContent, Int32, Int32, Int32, Boolean) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUIStyleBindings.cs:837)
+UnityEngine.GUIStyle:DrawWithTextSelection(Rect, GUIContent, Int32, Int32, Int32) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUIStyleBindings.cs:842)
+UnityEngine.TextEditor:DrawCursor(String) (at C:\BuildAgent\work\d63dfc6385190b60\Runtime\Export\TextEditor.cs:973)
+UnityEngine.GUI:DoTextField(Rect, Int32, GUIContent, Boolean, Int32, GUIStyle) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:684)
+UnityEngine.GUI:TextField(Rect, String) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:440)
+MainMenu:EditLevels(Int32) (at C:\Users\Khamraj\Documents\GitHub\LuminousVector\Assets\Scripts\Mono Classes\MainMenu.cs:572)
+UnityEngine.GUI:CallWindowDelegate(WindowFunction, Int32, GUISkin, Int32, Single, Single, GUIStyle) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:1402)
+
+[C:/BuildAgent/work/d63dfc6385190b60/Runtime/IMGUI/TextMeshGenerator2.cpp line 76] 
+(Filename: C Line: 0)
+
+Font size and style overrides are only supported for dynamic fonts.
+UnityEngine.GUIStyle:INTERNAL_CALL_Internal_GetCursorPixelPosition(IntPtr, Rect&, GUIContent, Int32, Vector2&)
+UnityEngine.GUIStyle:Internal_GetCursorPixelPosition(IntPtr, Rect, GUIContent, Int32, Vector2&) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUIStyleBindings.cs:868)
+UnityEngine.GUIStyle:GetCursorPixelPosition(Rect, GUIContent, Int32) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUIStyleBindings.cs:865)
+UnityEngine.TextEditor:UpdateScrollOffset() (at C:\BuildAgent\work\d63dfc6385190b60\Runtime\Export\TextEditor.cs:892)
+UnityEngine.TextEditor:ReplaceSelection(String) (at C:\BuildAgent\work\d63dfc6385190b60\Runtime\Export\TextEditor.cs:234)
+UnityEngine.TextEditor:Insert(Char) (at C:\BuildAgent\work\d63dfc6385190b60\Runtime\Export\TextEditor.cs:239)
+UnityEngine.GUI:DoTextField(Rect, Int32, GUIContent, Boolean, Int32, GUIStyle) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:664)
+UnityEngine.GUI:TextField(Rect, String) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:440)
+MainMenu:EditLevels(Int32) (at C:\Users\Khamraj\Documents\GitHub\LuminousVector\Assets\Scripts\Mono Classes\MainMenu.cs:572)
+UnityEngine.GUI:CallWindowDelegate(WindowFunction, Int32, GUISkin, Int32, Single, Single, GUIStyle) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:1402)
+
+[C:/BuildAgent/work/d63dfc6385190b60/Runtime/IMGUI/TextMeshGenerator2.cpp line 76] 
+(Filename: C Line: 0)
+
+Font size and style overrides are only supported for dynamic fonts.
+UnityEngine.GUIStyle:Internal_DrawWithTextSelection(GUIContent, Internal_DrawWithTextSelectionArguments&)
+UnityEngine.GUIStyle:DrawWithTextSelection(Rect, GUIContent, Int32, Int32, Int32, Boolean) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUIStyleBindings.cs:837)
+UnityEngine.GUIStyle:DrawWithTextSelection(Rect, GUIContent, Int32, Int32, Int32) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUIStyleBindings.cs:842)
+UnityEngine.TextEditor:DrawCursor(String) (at C:\BuildAgent\work\d63dfc6385190b60\Runtime\Export\TextEditor.cs:973)
+UnityEngine.GUI:DoTextField(Rect, Int32, GUIContent, Boolean, Int32, GUIStyle) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:684)
+UnityEngine.GUI:TextField(Rect, String) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:440)
+MainMenu:EditLevels(Int32) (at C:\Users\Khamraj\Documents\GitHub\LuminousVector\Assets\Scripts\Mono Classes\MainMenu.cs:572)
+UnityEngine.GUI:CallWindowDelegate(WindowFunction, Int32, GUISkin, Int32, Single, Single, GUIStyle) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:1402)
+
+[C:/BuildAgent/work/d63dfc6385190b60/Runtime/IMGUI/TextMeshGenerator2.cpp line 76] 
+(Filename: C Line: 0)
+
+Font size and style overrides are only supported for dynamic fonts.
+UnityEngine.GUIStyle:INTERNAL_CALL_Internal_GetCursorPixelPosition(IntPtr, Rect&, GUIContent, Int32, Vector2&)
+UnityEngine.GUIStyle:Internal_GetCursorPixelPosition(IntPtr, Rect, GUIContent, Int32, Vector2&) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUIStyleBindings.cs:868)
+UnityEngine.GUIStyle:GetCursorPixelPosition(Rect, GUIContent, Int32) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUIStyleBindings.cs:865)
+UnityEngine.TextEditor:UpdateScrollOffset() (at C:\BuildAgent\work\d63dfc6385190b60\Runtime\Export\TextEditor.cs:892)
+UnityEngine.TextEditor:ReplaceSelection(String) (at C:\BuildAgent\work\d63dfc6385190b60\Runtime\Export\TextEditor.cs:234)
+UnityEngine.TextEditor:Insert(Char) (at C:\BuildAgent\work\d63dfc6385190b60\Runtime\Export\TextEditor.cs:239)
+UnityEngine.GUI:DoTextField(Rect, Int32, GUIContent, Boolean, Int32, GUIStyle) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:664)
+UnityEngine.GUI:TextField(Rect, String) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:440)
+MainMenu:EditLevels(Int32) (at C:\Users\Khamraj\Documents\GitHub\LuminousVector\Assets\Scripts\Mono Classes\MainMenu.cs:572)
+UnityEngine.GUI:CallWindowDelegate(WindowFunction, Int32, GUISkin, Int32, Single, Single, GUIStyle) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:1402)
+
+[C:/BuildAgent/work/d63dfc6385190b60/Runtime/IMGUI/TextMeshGenerator2.cpp line 76] 
+(Filename: C Line: 0)
+
+Font size and style overrides are only supported for dynamic fonts.
+UnityEngine.GUIStyle:Internal_DrawWithTextSelection(GUIContent, Internal_DrawWithTextSelectionArguments&)
+UnityEngine.GUIStyle:DrawWithTextSelection(Rect, GUIContent, Int32, Int32, Int32, Boolean) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUIStyleBindings.cs:837)
+UnityEngine.GUIStyle:DrawWithTextSelection(Rect, GUIContent, Int32, Int32, Int32) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUIStyleBindings.cs:842)
+UnityEngine.TextEditor:DrawCursor(String) (at C:\BuildAgent\work\d63dfc6385190b60\Runtime\Export\TextEditor.cs:973)
+UnityEngine.GUI:DoTextField(Rect, Int32, GUIContent, Boolean, Int32, GUIStyle) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:684)
+UnityEngine.GUI:TextField(Rect, String) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:440)
+MainMenu:EditLevels(Int32) (at C:\Users\Khamraj\Documents\GitHub\LuminousVector\Assets\Scripts\Mono Classes\MainMenu.cs:572)
+UnityEngine.GUI:CallWindowDelegate(WindowFunction, Int32, GUISkin, Int32, Single, Single, GUIStyle) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:1402)
+
+[C:/BuildAgent/work/d63dfc6385190b60/Runtime/IMGUI/TextMeshGenerator2.cpp line 76] 
+(Filename: C Line: 0)
+
+Font size and style overrides are only supported for dynamic fonts.
+UnityEngine.GUIStyle:INTERNAL_CALL_Internal_GetCursorPixelPosition(IntPtr, Rect&, GUIContent, Int32, Vector2&)
+UnityEngine.GUIStyle:Internal_GetCursorPixelPosition(IntPtr, Rect, GUIContent, Int32, Vector2&) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUIStyleBindings.cs:868)
+UnityEngine.GUIStyle:GetCursorPixelPosition(Rect, GUIContent, Int32) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUIStyleBindings.cs:865)
+UnityEngine.TextEditor:UpdateScrollOffset() (at C:\BuildAgent\work\d63dfc6385190b60\Runtime\Export\TextEditor.cs:892)
+UnityEngine.TextEditor:ReplaceSelection(String) (at C:\BuildAgent\work\d63dfc6385190b60\Runtime\Export\TextEditor.cs:234)
+UnityEngine.TextEditor:Insert(Char) (at C:\BuildAgent\work\d63dfc6385190b60\Runtime\Export\TextEditor.cs:239)
+UnityEngine.GUI:DoTextField(Rect, Int32, GUIContent, Boolean, Int32, GUIStyle) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:664)
+UnityEngine.GUI:TextField(Rect, String) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:440)
+MainMenu:EditLevels(Int32) (at C:\Users\Khamraj\Documents\GitHub\LuminousVector\Assets\Scripts\Mono Classes\MainMenu.cs:572)
+UnityEngine.GUI:CallWindowDelegate(WindowFunction, Int32, GUISkin, Int32, Single, Single, GUIStyle) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:1402)
+
+[C:/BuildAgent/work/d63dfc6385190b60/Runtime/IMGUI/TextMeshGenerator2.cpp line 76] 
+(Filename: C Line: 0)
+
+Font size and style overrides are only supported for dynamic fonts.
+UnityEngine.GUIStyle:Internal_DrawWithTextSelection(GUIContent, Internal_DrawWithTextSelectionArguments&)
+UnityEngine.GUIStyle:DrawWithTextSelection(Rect, GUIContent, Int32, Int32, Int32, Boolean) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUIStyleBindings.cs:837)
+UnityEngine.GUIStyle:DrawWithTextSelection(Rect, GUIContent, Int32, Int32, Int32) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUIStyleBindings.cs:842)
+UnityEngine.TextEditor:DrawCursor(String) (at C:\BuildAgent\work\d63dfc6385190b60\Runtime\Export\TextEditor.cs:973)
+UnityEngine.GUI:DoTextField(Rect, Int32, GUIContent, Boolean, Int32, GUIStyle) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:684)
+UnityEngine.GUI:TextField(Rect, String) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:440)
+MainMenu:EditLevels(Int32) (at C:\Users\Khamraj\Documents\GitHub\LuminousVector\Assets\Scripts\Mono Classes\MainMenu.cs:572)
+UnityEngine.GUI:CallWindowDelegate(WindowFunction, Int32, GUISkin, Int32, Single, Single, GUIStyle) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:1402)
+
+[C:/BuildAgent/work/d63dfc6385190b60/Runtime/IMGUI/TextMeshGenerator2.cpp line 76] 
+(Filename: C Line: 0)
+
+Font size and style overrides are only supported for dynamic fonts.
+UnityEngine.GUIStyle:INTERNAL_CALL_Internal_GetCursorPixelPosition(IntPtr, Rect&, GUIContent, Int32, Vector2&)
+UnityEngine.GUIStyle:Internal_GetCursorPixelPosition(IntPtr, Rect, GUIContent, Int32, Vector2&) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUIStyleBindings.cs:868)
+UnityEngine.GUIStyle:GetCursorPixelPosition(Rect, GUIContent, Int32) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUIStyleBindings.cs:865)
+UnityEngine.TextEditor:UpdateScrollOffset() (at C:\BuildAgent\work\d63dfc6385190b60\Runtime\Export\TextEditor.cs:892)
+UnityEngine.TextEditor:ReplaceSelection(String) (at C:\BuildAgent\work\d63dfc6385190b60\Runtime\Export\TextEditor.cs:234)
+UnityEngine.TextEditor:Insert(Char) (at C:\BuildAgent\work\d63dfc6385190b60\Runtime\Export\TextEditor.cs:239)
+UnityEngine.GUI:DoTextField(Rect, Int32, GUIContent, Boolean, Int32, GUIStyle) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:664)
+UnityEngine.GUI:TextField(Rect, String) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:440)
+MainMenu:EditLevels(Int32) (at C:\Users\Khamraj\Documents\GitHub\LuminousVector\Assets\Scripts\Mono Classes\MainMenu.cs:572)
+UnityEngine.GUI:CallWindowDelegate(WindowFunction, Int32, GUISkin, Int32, Single, Single, GUIStyle) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:1402)
+
+[C:/BuildAgent/work/d63dfc6385190b60/Runtime/IMGUI/TextMeshGenerator2.cpp line 76] 
+(Filename: C Line: 0)
+
+Font size and style overrides are only supported for dynamic fonts.
+UnityEngine.GUIStyle:Internal_DrawWithTextSelection(GUIContent, Internal_DrawWithTextSelectionArguments&)
+UnityEngine.GUIStyle:DrawWithTextSelection(Rect, GUIContent, Int32, Int32, Int32, Boolean) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUIStyleBindings.cs:837)
+UnityEngine.GUIStyle:DrawWithTextSelection(Rect, GUIContent, Int32, Int32, Int32) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUIStyleBindings.cs:842)
+UnityEngine.TextEditor:DrawCursor(String) (at C:\BuildAgent\work\d63dfc6385190b60\Runtime\Export\TextEditor.cs:973)
+UnityEngine.GUI:DoTextField(Rect, Int32, GUIContent, Boolean, Int32, GUIStyle) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:684)
+UnityEngine.GUI:TextField(Rect, String) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:440)
+MainMenu:EditLevels(Int32) (at C:\Users\Khamraj\Documents\GitHub\LuminousVector\Assets\Scripts\Mono Classes\MainMenu.cs:572)
+UnityEngine.GUI:CallWindowDelegate(WindowFunction, Int32, GUISkin, Int32, Single, Single, GUIStyle) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:1402)
+
+[C:/BuildAgent/work/d63dfc6385190b60/Runtime/IMGUI/TextMeshGenerator2.cpp line 76] 
+(Filename: C Line: 0)
+
+Font size and style overrides are only supported for dynamic fonts.
+UnityEngine.GUIStyle:INTERNAL_CALL_Internal_GetCursorPixelPosition(IntPtr, Rect&, GUIContent, Int32, Vector2&)
+UnityEngine.GUIStyle:Internal_GetCursorPixelPosition(IntPtr, Rect, GUIContent, Int32, Vector2&) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUIStyleBindings.cs:868)
+UnityEngine.GUIStyle:GetCursorPixelPosition(Rect, GUIContent, Int32) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUIStyleBindings.cs:865)
+UnityEngine.TextEditor:UpdateScrollOffset() (at C:\BuildAgent\work\d63dfc6385190b60\Runtime\Export\TextEditor.cs:892)
+UnityEngine.TextEditor:ReplaceSelection(String) (at C:\BuildAgent\work\d63dfc6385190b60\Runtime\Export\TextEditor.cs:234)
+UnityEngine.TextEditor:Insert(Char) (at C:\BuildAgent\work\d63dfc6385190b60\Runtime\Export\TextEditor.cs:239)
+UnityEngine.GUI:DoTextField(Rect, Int32, GUIContent, Boolean, Int32, GUIStyle) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:664)
+UnityEngine.GUI:TextField(Rect, String) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:440)
+MainMenu:EditLevels(Int32) (at C:\Users\Khamraj\Documents\GitHub\LuminousVector\Assets\Scripts\Mono Classes\MainMenu.cs:572)
+UnityEngine.GUI:CallWindowDelegate(WindowFunction, Int32, GUISkin, Int32, Single, Single, GUIStyle) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:1402)
+
+[C:/BuildAgent/work/d63dfc6385190b60/Runtime/IMGUI/TextMeshGenerator2.cpp line 76] 
+(Filename: C Line: 0)
+
+Font size and style overrides are only supported for dynamic fonts.
+UnityEngine.GUIStyle:Internal_DrawWithTextSelection(GUIContent, Internal_DrawWithTextSelectionArguments&)
+UnityEngine.GUIStyle:DrawWithTextSelection(Rect, GUIContent, Int32, Int32, Int32, Boolean) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUIStyleBindings.cs:837)
+UnityEngine.GUIStyle:DrawWithTextSelection(Rect, GUIContent, Int32, Int32, Int32) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUIStyleBindings.cs:842)
+UnityEngine.TextEditor:DrawCursor(String) (at C:\BuildAgent\work\d63dfc6385190b60\Runtime\Export\TextEditor.cs:973)
+UnityEngine.GUI:DoTextField(Rect, Int32, GUIContent, Boolean, Int32, GUIStyle) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:684)
+UnityEngine.GUI:TextField(Rect, String) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:440)
+MainMenu:EditLevels(Int32) (at C:\Users\Khamraj\Documents\GitHub\LuminousVector\Assets\Scripts\Mono Classes\MainMenu.cs:572)
+UnityEngine.GUI:CallWindowDelegate(WindowFunction, Int32, GUISkin, Int32, Single, Single, GUIStyle) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:1402)
+
+[C:/BuildAgent/work/d63dfc6385190b60/Runtime/IMGUI/TextMeshGenerator2.cpp line 76] 
+(Filename: C Line: 0)
+
+Font size and style overrides are only supported for dynamic fonts.
+UnityEngine.GUIStyle:INTERNAL_CALL_Internal_GetCursorPixelPosition(IntPtr, Rect&, GUIContent, Int32, Vector2&)
+UnityEngine.GUIStyle:Internal_GetCursorPixelPosition(IntPtr, Rect, GUIContent, Int32, Vector2&) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUIStyleBindings.cs:868)
+UnityEngine.GUIStyle:GetCursorPixelPosition(Rect, GUIContent, Int32) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUIStyleBindings.cs:865)
+UnityEngine.TextEditor:UpdateScrollOffset() (at C:\BuildAgent\work\d63dfc6385190b60\Runtime\Export\TextEditor.cs:892)
+UnityEngine.TextEditor:ReplaceSelection(String) (at C:\BuildAgent\work\d63dfc6385190b60\Runtime\Export\TextEditor.cs:234)
+UnityEngine.TextEditor:Insert(Char) (at C:\BuildAgent\work\d63dfc6385190b60\Runtime\Export\TextEditor.cs:239)
+UnityEngine.GUI:DoTextField(Rect, Int32, GUIContent, Boolean, Int32, GUIStyle) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:664)
+UnityEngine.GUI:TextField(Rect, String) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:440)
+MainMenu:EditLevels(Int32) (at C:\Users\Khamraj\Documents\GitHub\LuminousVector\Assets\Scripts\Mono Classes\MainMenu.cs:572)
+UnityEngine.GUI:CallWindowDelegate(WindowFunction, Int32, GUISkin, Int32, Single, Single, GUIStyle) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:1402)
+
+[C:/BuildAgent/work/d63dfc6385190b60/Runtime/IMGUI/TextMeshGenerator2.cpp line 76] 
+(Filename: C Line: 0)
+
+Font size and style overrides are only supported for dynamic fonts.
+UnityEngine.GUIStyle:Internal_DrawWithTextSelection(GUIContent, Internal_DrawWithTextSelectionArguments&)
+UnityEngine.GUIStyle:DrawWithTextSelection(Rect, GUIContent, Int32, Int32, Int32, Boolean) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUIStyleBindings.cs:837)
+UnityEngine.GUIStyle:DrawWithTextSelection(Rect, GUIContent, Int32, Int32, Int32) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUIStyleBindings.cs:842)
+UnityEngine.TextEditor:DrawCursor(String) (at C:\BuildAgent\work\d63dfc6385190b60\Runtime\Export\TextEditor.cs:973)
+UnityEngine.GUI:DoTextField(Rect, Int32, GUIContent, Boolean, Int32, GUIStyle) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:684)
+UnityEngine.GUI:TextField(Rect, String) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:440)
+MainMenu:EditLevels(Int32) (at C:\Users\Khamraj\Documents\GitHub\LuminousVector\Assets\Scripts\Mono Classes\MainMenu.cs:572)
+UnityEngine.GUI:CallWindowDelegate(WindowFunction, Int32, GUISkin, Int32, Single, Single, GUIStyle) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:1402)
+
+[C:/BuildAgent/work/d63dfc6385190b60/Runtime/IMGUI/TextMeshGenerator2.cpp line 76] 
+(Filename: C Line: 0)
+
+Font size and style overrides are only supported for dynamic fonts.
+UnityEngine.GUIStyle:INTERNAL_CALL_Internal_GetCursorPixelPosition(IntPtr, Rect&, GUIContent, Int32, Vector2&)
+UnityEngine.GUIStyle:Internal_GetCursorPixelPosition(IntPtr, Rect, GUIContent, Int32, Vector2&) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUIStyleBindings.cs:868)
+UnityEngine.GUIStyle:GetCursorPixelPosition(Rect, GUIContent, Int32) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUIStyleBindings.cs:865)
+UnityEngine.TextEditor:UpdateScrollOffset() (at C:\BuildAgent\work\d63dfc6385190b60\Runtime\Export\TextEditor.cs:892)
+UnityEngine.TextEditor:ReplaceSelection(String) (at C:\BuildAgent\work\d63dfc6385190b60\Runtime\Export\TextEditor.cs:234)
+UnityEngine.TextEditor:Insert(Char) (at C:\BuildAgent\work\d63dfc6385190b60\Runtime\Export\TextEditor.cs:239)
+UnityEngine.GUI:DoTextField(Rect, Int32, GUIContent, Boolean, Int32, GUIStyle) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:664)
+UnityEngine.GUI:TextField(Rect, String) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:440)
+MainMenu:EditLevels(Int32) (at C:\Users\Khamraj\Documents\GitHub\LuminousVector\Assets\Scripts\Mono Classes\MainMenu.cs:572)
+UnityEngine.GUI:CallWindowDelegate(WindowFunction, Int32, GUISkin, Int32, Single, Single, GUIStyle) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:1402)
+
+[C:/BuildAgent/work/d63dfc6385190b60/Runtime/IMGUI/TextMeshGenerator2.cpp line 76] 
+(Filename: C Line: 0)
+
+Font size and style overrides are only supported for dynamic fonts.
+UnityEngine.GUIStyle:Internal_DrawWithTextSelection(GUIContent, Internal_DrawWithTextSelectionArguments&)
+UnityEngine.GUIStyle:DrawWithTextSelection(Rect, GUIContent, Int32, Int32, Int32, Boolean) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUIStyleBindings.cs:837)
+UnityEngine.GUIStyle:DrawWithTextSelection(Rect, GUIContent, Int32, Int32, Int32) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUIStyleBindings.cs:842)
+UnityEngine.TextEditor:DrawCursor(String) (at C:\BuildAgent\work\d63dfc6385190b60\Runtime\Export\TextEditor.cs:973)
+UnityEngine.GUI:DoTextField(Rect, Int32, GUIContent, Boolean, Int32, GUIStyle) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:684)
+UnityEngine.GUI:TextField(Rect, String) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:440)
+MainMenu:EditLevels(Int32) (at C:\Users\Khamraj\Documents\GitHub\LuminousVector\Assets\Scripts\Mono Classes\MainMenu.cs:572)
+UnityEngine.GUI:CallWindowDelegate(WindowFunction, Int32, GUISkin, Int32, Single, Single, GUIStyle) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:1402)
+
+[C:/BuildAgent/work/d63dfc6385190b60/Runtime/IMGUI/TextMeshGenerator2.cpp line 76] 
+(Filename: C Line: 0)
+
+Font size and style overrides are only supported for dynamic fonts.
+UnityEngine.GUIStyle:INTERNAL_CALL_Internal_GetCursorPixelPosition(IntPtr, Rect&, GUIContent, Int32, Vector2&)
+UnityEngine.GUIStyle:Internal_GetCursorPixelPosition(IntPtr, Rect, GUIContent, Int32, Vector2&) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUIStyleBindings.cs:868)
+UnityEngine.GUIStyle:GetCursorPixelPosition(Rect, GUIContent, Int32) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUIStyleBindings.cs:865)
+UnityEngine.TextEditor:UpdateScrollOffset() (at C:\BuildAgent\work\d63dfc6385190b60\Runtime\Export\TextEditor.cs:892)
+UnityEngine.TextEditor:ReplaceSelection(String) (at C:\BuildAgent\work\d63dfc6385190b60\Runtime\Export\TextEditor.cs:234)
+UnityEngine.TextEditor:Insert(Char) (at C:\BuildAgent\work\d63dfc6385190b60\Runtime\Export\TextEditor.cs:239)
+UnityEngine.GUI:DoTextField(Rect, Int32, GUIContent, Boolean, Int32, GUIStyle) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:664)
+UnityEngine.GUI:TextField(Rect, String) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:440)
+MainMenu:EditLevels(Int32) (at C:\Users\Khamraj\Documents\GitHub\LuminousVector\Assets\Scripts\Mono Classes\MainMenu.cs:572)
+UnityEngine.GUI:CallWindowDelegate(WindowFunction, Int32, GUISkin, Int32, Single, Single, GUIStyle) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:1402)
+
+[C:/BuildAgent/work/d63dfc6385190b60/Runtime/IMGUI/TextMeshGenerator2.cpp line 76] 
+(Filename: C Line: 0)
+
+Font size and style overrides are only supported for dynamic fonts.
+UnityEngine.GUIStyle:Internal_DrawWithTextSelection(GUIContent, Internal_DrawWithTextSelectionArguments&)
+UnityEngine.GUIStyle:DrawWithTextSelection(Rect, GUIContent, Int32, Int32, Int32, Boolean) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUIStyleBindings.cs:837)
+UnityEngine.GUIStyle:DrawWithTextSelection(Rect, GUIContent, Int32, Int32, Int32) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUIStyleBindings.cs:842)
+UnityEngine.TextEditor:DrawCursor(String) (at C:\BuildAgent\work\d63dfc6385190b60\Runtime\Export\TextEditor.cs:973)
+UnityEngine.GUI:DoTextField(Rect, Int32, GUIContent, Boolean, Int32, GUIStyle) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:684)
+UnityEngine.GUI:TextField(Rect, String) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:440)
+MainMenu:EditLevels(Int32) (at C:\Users\Khamraj\Documents\GitHub\LuminousVector\Assets\Scripts\Mono Classes\MainMenu.cs:572)
+UnityEngine.GUI:CallWindowDelegate(WindowFunction, Int32, GUISkin, Int32, Single, Single, GUIStyle) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:1402)
+
+[C:/BuildAgent/work/d63dfc6385190b60/Runtime/IMGUI/TextMeshGenerator2.cpp line 76] 
+(Filename: C Line: 0)
+
+Font size and style overrides are only supported for dynamic fonts.
+UnityEngine.GUIStyle:INTERNAL_CALL_Internal_GetCursorPixelPosition(IntPtr, Rect&, GUIContent, Int32, Vector2&)
+UnityEngine.GUIStyle:Internal_GetCursorPixelPosition(IntPtr, Rect, GUIContent, Int32, Vector2&) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUIStyleBindings.cs:868)
+UnityEngine.GUIStyle:GetCursorPixelPosition(Rect, GUIContent, Int32) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUIStyleBindings.cs:865)
+UnityEngine.TextEditor:UpdateScrollOffset() (at C:\BuildAgent\work\d63dfc6385190b60\Runtime\Export\TextEditor.cs:892)
+UnityEngine.TextEditor:ReplaceSelection(String) (at C:\BuildAgent\work\d63dfc6385190b60\Runtime\Export\TextEditor.cs:234)
+UnityEngine.TextEditor:Insert(Char) (at C:\BuildAgent\work\d63dfc6385190b60\Runtime\Export\TextEditor.cs:239)
+UnityEngine.GUI:DoTextField(Rect, Int32, GUIContent, Boolean, Int32, GUIStyle) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:664)
+UnityEngine.GUI:TextField(Rect, String) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:440)
+MainMenu:EditLevels(Int32) (at C:\Users\Khamraj\Documents\GitHub\LuminousVector\Assets\Scripts\Mono Classes\MainMenu.cs:572)
+UnityEngine.GUI:CallWindowDelegate(WindowFunction, Int32, GUISkin, Int32, Single, Single, GUIStyle) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:1402)
+
+[C:/BuildAgent/work/d63dfc6385190b60/Runtime/IMGUI/TextMeshGenerator2.cpp line 76] 
+(Filename: C Line: 0)
+
+Font size and style overrides are only supported for dynamic fonts.
+UnityEngine.GUIStyle:Internal_DrawWithTextSelection(GUIContent, Internal_DrawWithTextSelectionArguments&)
+UnityEngine.GUIStyle:DrawWithTextSelection(Rect, GUIContent, Int32, Int32, Int32, Boolean) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUIStyleBindings.cs:837)
+UnityEngine.GUIStyle:DrawWithTextSelection(Rect, GUIContent, Int32, Int32, Int32) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUIStyleBindings.cs:842)
+UnityEngine.TextEditor:DrawCursor(String) (at C:\BuildAgent\work\d63dfc6385190b60\Runtime\Export\TextEditor.cs:973)
+UnityEngine.GUI:DoTextField(Rect, Int32, GUIContent, Boolean, Int32, GUIStyle) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:684)
+UnityEngine.GUI:TextField(Rect, String) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:440)
+MainMenu:EditLevels(Int32) (at C:\Users\Khamraj\Documents\GitHub\LuminousVector\Assets\Scripts\Mono Classes\MainMenu.cs:572)
+UnityEngine.GUI:CallWindowDelegate(WindowFunction, Int32, GUISkin, Int32, Single, Single, GUIStyle) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:1402)
+
+[C:/BuildAgent/work/d63dfc6385190b60/Runtime/IMGUI/TextMeshGenerator2.cpp line 76] 
+(Filename: C Line: 0)
+
+Font size and style overrides are only supported for dynamic fonts.
+UnityEngine.GUIStyle:INTERNAL_CALL_Internal_GetCursorPixelPosition(IntPtr, Rect&, GUIContent, Int32, Vector2&)
+UnityEngine.GUIStyle:Internal_GetCursorPixelPosition(IntPtr, Rect, GUIContent, Int32, Vector2&) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUIStyleBindings.cs:868)
+UnityEngine.GUIStyle:GetCursorPixelPosition(Rect, GUIContent, Int32) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUIStyleBindings.cs:865)
+UnityEngine.TextEditor:UpdateScrollOffset() (at C:\BuildAgent\work\d63dfc6385190b60\Runtime\Export\TextEditor.cs:892)
+UnityEngine.TextEditor:ReplaceSelection(String) (at C:\BuildAgent\work\d63dfc6385190b60\Runtime\Export\TextEditor.cs:234)
+UnityEngine.TextEditor:Insert(Char) (at C:\BuildAgent\work\d63dfc6385190b60\Runtime\Export\TextEditor.cs:239)
+UnityEngine.GUI:DoTextField(Rect, Int32, GUIContent, Boolean, Int32, GUIStyle) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:664)
+UnityEngine.GUI:TextField(Rect, String) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:440)
+MainMenu:EditLevels(Int32) (at C:\Users\Khamraj\Documents\GitHub\LuminousVector\Assets\Scripts\Mono Classes\MainMenu.cs:572)
+UnityEngine.GUI:CallWindowDelegate(WindowFunction, Int32, GUISkin, Int32, Single, Single, GUIStyle) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:1402)
+
+[C:/BuildAgent/work/d63dfc6385190b60/Runtime/IMGUI/TextMeshGenerator2.cpp line 76] 
+(Filename: C Line: 0)
+
+Font size and style overrides are only supported for dynamic fonts.
+UnityEngine.GUIStyle:Internal_DrawWithTextSelection(GUIContent, Internal_DrawWithTextSelectionArguments&)
+UnityEngine.GUIStyle:DrawWithTextSelection(Rect, GUIContent, Int32, Int32, Int32, Boolean) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUIStyleBindings.cs:837)
+UnityEngine.GUIStyle:DrawWithTextSelection(Rect, GUIContent, Int32, Int32, Int32) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUIStyleBindings.cs:842)
+UnityEngine.TextEditor:DrawCursor(String) (at C:\BuildAgent\work\d63dfc6385190b60\Runtime\Export\TextEditor.cs:973)
+UnityEngine.GUI:DoTextField(Rect, Int32, GUIContent, Boolean, Int32, GUIStyle) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:684)
+UnityEngine.GUI:TextField(Rect, String) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:440)
+MainMenu:EditLevels(Int32) (at C:\Users\Khamraj\Documents\GitHub\LuminousVector\Assets\Scripts\Mono Classes\MainMenu.cs:572)
+UnityEngine.GUI:CallWindowDelegate(WindowFunction, Int32, GUISkin, Int32, Single, Single, GUIStyle) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:1402)
+
+[C:/BuildAgent/work/d63dfc6385190b60/Runtime/IMGUI/TextMeshGenerator2.cpp line 76] 
+(Filename: C Line: 0)
+
+Font size and style overrides are only supported for dynamic fonts.
+UnityEngine.GUIStyle:INTERNAL_CALL_Internal_GetCursorPixelPosition(IntPtr, Rect&, GUIContent, Int32, Vector2&)
+UnityEngine.GUIStyle:Internal_GetCursorPixelPosition(IntPtr, Rect, GUIContent, Int32, Vector2&) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUIStyleBindings.cs:868)
+UnityEngine.GUIStyle:GetCursorPixelPosition(Rect, GUIContent, Int32) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUIStyleBindings.cs:865)
+UnityEngine.TextEditor:UpdateScrollOffset() (at C:\BuildAgent\work\d63dfc6385190b60\Runtime\Export\TextEditor.cs:892)
+UnityEngine.TextEditor:ReplaceSelection(String) (at C:\BuildAgent\work\d63dfc6385190b60\Runtime\Export\TextEditor.cs:234)
+UnityEngine.TextEditor:Insert(Char) (at C:\BuildAgent\work\d63dfc6385190b60\Runtime\Export\TextEditor.cs:239)
+UnityEngine.GUI:DoTextField(Rect, Int32, GUIContent, Boolean, Int32, GUIStyle) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:664)
+UnityEngine.GUI:TextField(Rect, String) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:440)
+MainMenu:EditLevels(Int32) (at C:\Users\Khamraj\Documents\GitHub\LuminousVector\Assets\Scripts\Mono Classes\MainMenu.cs:572)
+UnityEngine.GUI:CallWindowDelegate(WindowFunction, Int32, GUISkin, Int32, Single, Single, GUIStyle) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:1402)
+
+[C:/BuildAgent/work/d63dfc6385190b60/Runtime/IMGUI/TextMeshGenerator2.cpp line 76] 
+(Filename: C Line: 0)
+
+Font size and style overrides are only supported for dynamic fonts.
+UnityEngine.GUIStyle:Internal_DrawWithTextSelection(GUIContent, Internal_DrawWithTextSelectionArguments&)
+UnityEngine.GUIStyle:DrawWithTextSelection(Rect, GUIContent, Int32, Int32, Int32, Boolean) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUIStyleBindings.cs:837)
+UnityEngine.GUIStyle:DrawWithTextSelection(Rect, GUIContent, Int32, Int32, Int32) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUIStyleBindings.cs:842)
+UnityEngine.TextEditor:DrawCursor(String) (at C:\BuildAgent\work\d63dfc6385190b60\Runtime\Export\TextEditor.cs:973)
+UnityEngine.GUI:DoTextField(Rect, Int32, GUIContent, Boolean, Int32, GUIStyle) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:684)
+UnityEngine.GUI:TextField(Rect, String) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:440)
+MainMenu:EditLevels(Int32) (at C:\Users\Khamraj\Documents\GitHub\LuminousVector\Assets\Scripts\Mono Classes\MainMenu.cs:572)
+UnityEngine.GUI:CallWindowDelegate(WindowFunction, Int32, GUISkin, Int32, Single, Single, GUIStyle) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:1402)
+
+[C:/BuildAgent/work/d63dfc6385190b60/Runtime/IMGUI/TextMeshGenerator2.cpp line 76] 
+(Filename: C Line: 0)
+
+UnloadTime: 5.354444 ms
+System memory in use before: 37.6 MB.
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+System memory in use after: 37.4 MB.
+
+Unloading 55 unused Assets to reduce memory usage. Loaded Objects now: 346.
+Total: 10.151612 ms (FindLiveObjects: 0.035291 ms CreateObjectMapping: 0.020107 ms MarkObjects: 8.250391 ms  DeleteObjects: 0.329112 ms)
+
+Font size and style overrides are only supported for dynamic fonts.
+UnityEngine.GUIStyle:INTERNAL_CALL_Internal_Draw2(IntPtr, Rect&, GUIContent, Int32, Boolean)
+UnityEngine.GUIStyle:Internal_Draw2(IntPtr, Rect, GUIContent, Int32, Boolean) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUIStyleBindings.cs:748)
+UnityEngine.GUIStyle:Draw(Rect, GUIContent, Int32, Boolean) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUIStyleBindings.cs:741)
+UnityEngine.GUI:DoTextField(Rect, Int32, GUIContent, Boolean, Int32, GUIStyle) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:682)
+UnityEngine.GUI:TextField(Rect, String) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:440)
+LevelEditor:SaveWindow(Int32) (at C:\Users\Khamraj\Documents\GitHub\LuminousVector\Assets\Scripts\Mono Classes\LevelEditor.cs:220)
+UnityEngine.GUI:CallWindowDelegate(WindowFunction, Int32, GUISkin, Int32, Single, Single, GUIStyle) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:1402)
+
+[C:/BuildAgent/work/d63dfc6385190b60/Runtime/IMGUI/TextMeshGenerator2.cpp line 76] 
+(Filename: C Line: 0)
+
+Font size and style overrides are only supported for dynamic fonts.
+UnityEngine.GUIStyle:INTERNAL_CALL_Internal_Draw2(IntPtr, Rect&, GUIContent, Int32, Boolean)
+UnityEngine.GUIStyle:Internal_Draw2(IntPtr, Rect, GUIContent, Int32, Boolean) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUIStyleBindings.cs:748)
+UnityEngine.GUIStyle:Draw(Rect, GUIContent, Int32, Boolean) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUIStyleBindings.cs:741)
+UnityEngine.GUI:DoTextField(Rect, Int32, GUIContent, Boolean, Int32, GUIStyle) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:682)
+UnityEngine.GUI:TextField(Rect, String) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:440)
+LevelEditor:SaveWindow(Int32) (at C:\Users\Khamraj\Documents\GitHub\LuminousVector\Assets\Scripts\Mono Classes\LevelEditor.cs:220)
+UnityEngine.GUI:CallWindowDelegate(WindowFunction, Int32, GUISkin, Int32, Single, Single, GUIStyle) (at C:\BuildAgent\work\d63dfc6385190b60\artifacts\StandalonePlayerGenerated\GUI.cs:1402)
+
+[C:/BuildAgent/work/d63dfc6385190b60/Runtime/IMGUI/TextMeshGenerator2.cpp line 76] 
+(Filename: C Line: 0)
+
+UnloadTime: 0.620882 ms
+System memory in use before: 37.5 MB.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+System memory in use after: 37.0 MB.
+
+Unloading 141 unused Assets to reduce memory usage. Loaded Objects now: 258.
+Total: 2.638648 ms (FindLiveObjects: 0.029135 ms CreateObjectMapping: 0.018876 ms MarkObjects: 0.269199 ms  DeleteObjects: 0.772717 ms)
+
+640:1360 | 480:768 | 60:60
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MainMenu:LoadSettings() (at C:\Users\Khamraj\Documents\GitHub\LuminousVector\Assets\Scripts\Mono Classes\MainMenu.cs:128)
+MainMenu:Start() (at C:\Users\Khamraj\Documents\GitHub\LuminousVector\Assets\Scripts\Mono Classes\MainMenu.cs:71)
+ 
+(Filename: C Line: 0)
+
+800:1360 | 480:768 | 60:60
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MainMenu:LoadSettings() (at C:\Users\Khamraj\Documents\GitHub\LuminousVector\Assets\Scripts\Mono Classes\MainMenu.cs:128)
+MainMenu:Start() (at C:\Users\Khamraj\Documents\GitHub\LuminousVector\Assets\Scripts\Mono Classes\MainMenu.cs:71)
+ 
+(Filename: C Line: 0)
+
+800:1360 | 600:768 | 60:60
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MainMenu:LoadSettings() (at C:\Users\Khamraj\Documents\GitHub\LuminousVector\Assets\Scripts\Mono Classes\MainMenu.cs:128)
+MainMenu:Start() (at C:\Users\Khamraj\Documents\GitHub\LuminousVector\Assets\Scripts\Mono Classes\MainMenu.cs:71)
+ 
+(Filename: C Line: 0)
+
+1024:1360 | 600:768 | 60:60
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MainMenu:LoadSettings() (at C:\Users\Khamraj\Documents\GitHub\LuminousVector\Assets\Scripts\Mono Classes\MainMenu.cs:128)
+MainMenu:Start() (at C:\Users\Khamraj\Documents\GitHub\LuminousVector\Assets\Scripts\Mono Classes\MainMenu.cs:71)
+ 
+(Filename: C Line: 0)
+
+1024:1360 | 768:768 | 60:60
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MainMenu:LoadSettings() (at C:\Users\Khamraj\Documents\GitHub\LuminousVector\Assets\Scripts\Mono Classes\MainMenu.cs:128)
+MainMenu:Start() (at C:\Users\Khamraj\Documents\GitHub\LuminousVector\Assets\Scripts\Mono Classes\MainMenu.cs:71)
+ 
+(Filename: C Line: 0)
+
+1280:1360 | 720:768 | 60:60
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MainMenu:LoadSettings() (at C:\Users\Khamraj\Documents\GitHub\LuminousVector\Assets\Scripts\Mono Classes\MainMenu.cs:128)
+MainMenu:Start() (at C:\Users\Khamraj\Documents\GitHub\LuminousVector\Assets\Scripts\Mono Classes\MainMenu.cs:71)
+ 
+(Filename: C Line: 0)
+
+1280:1360 | 768:768 | 60:60
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MainMenu:LoadSettings() (at C:\Users\Khamraj\Documents\GitHub\LuminousVector\Assets\Scripts\Mono Classes\MainMenu.cs:128)
+MainMenu:Start() (at C:\Users\Khamraj\Documents\GitHub\LuminousVector\Assets\Scripts\Mono Classes\MainMenu.cs:71)
+ 
+(Filename: C Line: 0)
+
+1280:1360 | 1024:768 | 60:60
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MainMenu:LoadSettings() (at C:\Users\Khamraj\Documents\GitHub\LuminousVector\Assets\Scripts\Mono Classes\MainMenu.cs:128)
+MainMenu:Start() (at C:\Users\Khamraj\Documents\GitHub\LuminousVector\Assets\Scripts\Mono Classes\MainMenu.cs:71)
+ 
+(Filename: C Line: 0)
+
+1360:1360 | 768:768 | 60:60
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MainMenu:LoadSettings() (at C:\Users\Khamraj\Documents\GitHub\LuminousVector\Assets\Scripts\Mono Classes\MainMenu.cs:128)
+MainMenu:Start() (at C:\Users\Khamraj\Documents\GitHub\LuminousVector\Assets\Scripts\Mono Classes\MainMenu.cs:71)
+ 
+(Filename: C Line: 0)
+
+Loading Levels
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MainMenu:GetLevels() (at C:\Users\Khamraj\Documents\GitHub\LuminousVector\Assets\Scripts\Mono Classes\MainMenu.cs:154)
+MainMenu:Start() (at C:\Users\Khamraj\Documents\GitHub\LuminousVector\Assets\Scripts\Mono Classes\MainMenu.cs:94)
+ 
+(Filename: C Line: 0)
+

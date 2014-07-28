@@ -1,14 +1,6 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\TargetingHUD.cs">
-    <Files>
-      <File FileName="Assets\TargetingHUD.cs" Line="44" Column="11" />
-      <File FileName="Assets\Scripts\Mono Classes\WaveMaster.cs" Line="147" Column="1" />
-      <File FileName="Assets\Scripts\Mono Classes\MainMenu.cs" Line="73" Column="31" />
-      <File FileName="Assets\Scripts\Mono Classes\PowerUpObject.cs" Line="15" Column="67" />
-      <File FileName="Assets\Scripts\Mono Classes\PlayerController.cs" Line="189" Column="1" />
-    </Files>
-  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
