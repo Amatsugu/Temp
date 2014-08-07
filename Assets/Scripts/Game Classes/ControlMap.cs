@@ -26,7 +26,22 @@ public class ControlMap : DefaultData {
 		controlNames.Clear();
 		controlKeys.Clear();
 	}
-	public KeyCode GetKey(string keyName)
+	public bool GetKey(string keyName)
+	{
+		return Input.GetKey(GetKeyCode(keyName));
+	}
+
+	public bool GetKeyDown(string keyName)
+	{
+		return Input.GetKeyDown(GetKeyCode(keyName));
+	}
+
+	public bool GetKeyUp(string keyName)
+	{
+		return Input.GetKeyUp(GetKeyCode(keyName));
+	}
+
+	public KeyCode GetKeyCode(string keyName)
 	{
 		KeyCode key = KeyCode.None;
 		if(!controlNames.Contains(keyName))
@@ -38,7 +53,6 @@ public class ControlMap : DefaultData {
 		{
 			key = controlKeys[controlNames.IndexOf(keyName)];
 		}
-		
 		return key;
 	}
 

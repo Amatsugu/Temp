@@ -73,39 +73,39 @@ public class PlayerController : MonoBehaviour {
 				}
 			}else
 			{
-				if(Input.GetKey(_controls.GetKey("Percise Move")))
+				if(_controls.GetKeyDown("Percise Move"))
 				{
-					if(Input.GetKey(_controls.GetKey("Up")))
+					if(_controls.GetKeyDown("Up"))
 					{
 						_curPosition.y += MoveSpeed * Time.deltaTime;
 					}
-					if(Input.GetKey(_controls.GetKey("Down")))
+					if(_controls.GetKeyDown("Down"))
 					{
 						_curPosition.y -= MoveSpeed * Time.deltaTime;
 					}
-					if(Input.GetKey(_controls.GetKey("Left")))
+					if(_controls.GetKeyDown("Left"))
 					{
 						_curPosition.x -= MoveSpeed * Time.deltaTime;
 					}
-					if(Input.GetKey(_controls.GetKey("Right")))
+					if(_controls.GetKeyDown("Right"))
 					{
 						_curPosition.x += MoveSpeed * Time.deltaTime;
 					}
 				}else
 				{
-					if(Input.GetKey(_controls.GetKey("Up")))
+					if(_controls.GetKeyDown("Up"))
 					{
 						_curPosition.y += MoveSpeed * Time.deltaTime * 2;
 					}
-					if(Input.GetKey(_controls.GetKey("Down")))
+					if(_controls.GetKeyDown("Down"))
 					{
 						_curPosition.y -= MoveSpeed * Time.deltaTime * 2;
 					}
-					if(Input.GetKey(_controls.GetKey("Left")))
+					if(_controls.GetKeyDown("Left"))
 					{
 						_curPosition.x -= MoveSpeed * Time.deltaTime * 2;
 					}
-					if(Input.GetKey(_controls.GetKey("Right")))
+					if(_controls.GetKeyDown("Right"))
 					{
 						_curPosition.x += MoveSpeed * Time.deltaTime * 2;
 					}
@@ -127,7 +127,7 @@ public class PlayerController : MonoBehaviour {
 				_curPower = 0;
 			if(_curPower < 0)
 				_curPower = 3;
-			if(Input.GetKeyDown(_controls.GetKey("Ability")))
+			if(_controls.GetKeyDown("Ability"))
 			{
 				UsePower();
 			}
@@ -186,6 +186,8 @@ public class PlayerController : MonoBehaviour {
 
 	void UsePower(int power)
 	{
+		if(_powers.Count-1 < power)
+			return;
 		PowerUp type = _powers[power];
 		float value = _powerValues[power];
 		_powers.RemoveAt(power);

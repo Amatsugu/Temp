@@ -1,5 +1,4 @@
 ﻿using UnityEngine;
-using System.IO;
 using System.Collections;
 using System.Collections.Generic;
 
@@ -29,7 +28,7 @@ public class WaveMaster : MonoBehaviour {
 			//PlayerPrefs.SetString("loadPath", "C:/Users/Khamraj/Documents/New Unity Project/Assets/Levels/Custom/New Level.lvl");
 		}
 		_controls = GameObject.Find("_GameRegistry").GetComponent<ControlMap>();
-		if(!Load(PlayerPrefs.GetString("loadPath")))
+		if(!_currentLevel.Load(PlayerPrefs.GetString("loadPath")))
 		{
 			_loadFail = true;
 		}
@@ -82,7 +81,7 @@ public class WaveMaster : MonoBehaviour {
 				_levelClear = true;
 			if(_levelClear || _gameOver)
 			{
-				if(Input.GetKeyDown(_controls.GetKey("Advance")))
+				if(_controls.GetKeyDown("Advance"))
 					Application.LoadLevel("MainMenu");
 			}
 		}
@@ -120,7 +119,7 @@ public class WaveMaster : MonoBehaviour {
 			if(_gameOver)
 				GUI.Label(new Rect(0, hh, Screen.width, 64), "Game Over!");
 			if(_gameOver || _levelClear)
-				GUI.Label(new Rect(0, hh+64, Screen.width, 64), "Press " + _controls.GetKey("Advance").ToString() + " to continue!");
+				GUI.Label(new Rect(0, hh+64, Screen.width, 64), "Press " + _controls.GetKeyCode("Advance").ToString() + " to continue!");
 		}
 	}
 
@@ -140,19 +139,6 @@ public class WaveMaster : MonoBehaviour {
 		{
 			Application.LoadLevel("MainMenu");
 		}
-	}
-
-	bool Load(string path)
-	{
-		Debug.Log(path);
-		if(path == null || path == "")
-			return false;
-		if(File.Exists(path))
-		{
-			PlayerPrefs.SetString("loadPath", "");
-			return _currentLevel.SetLevelData(File.ReadAllLines(path));
-		}else
-			return false;
 	}
 
 	public List<GameObject> GetSpawnedUnits()

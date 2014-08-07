@@ -1,4 +1,5 @@
 ﻿using UnityEngine;
+using System.IO;
 using System.Collections;
 using System.Collections.Generic;
 
@@ -25,7 +26,37 @@ public class Level
 		return levelData.ToArray();
 	}
 
-	public bool SetLevelData(string[] levelData)
+	public bool Load(string path)
+	{
+		Debug.Log(path);
+		if(path == null || path == "")
+			return false;
+		if(File.Exists(path))
+		{
+			PlayerPrefs.SetString("loadPath", "");
+			return SetLevelData(File.ReadAllLines(path));
+		}else
+			return false;
+	}
+
+	public void Save()
+	{
+		string customDir = Application.dataPath+"/Levels/Custom/";
+		if(!Directory.Exists(customDir))
+		{
+			Directory.CreateDirectory(customDir);
+		}
+		string[] levelData = GetLevelData();
+		StreamWriter levelFile = File.CreateText(customDir+LevelName+".lvl");
+		foreach(string l in levelData)
+		{
+			levelFile.WriteLine(l);
+		}
+		levelFile.Flush();
+		levelFile.Close();
+	}
+
+	bool SetLevelData(string[] levelData)
 	{
 		if(!levelData[0].Contains("LevelName:"))
 		{

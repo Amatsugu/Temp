@@ -1,9 +1,14 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Mono Classes\UnitStats.cs">
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Mono Classes\PlayerController.cs">
     <Files>
-      <File FileName="Assets\Scripts\Mono Classes\UnitStats.cs" Line="13" Column="30" />
-      <File FileName="Assets\Scripts\Game Classes\enum.cs" Line="23" Column="7" />
+      <File FileName="Assets\Scripts\Game Classes\ControlMap.cs" Line="44" Column="43" />
+      <File FileName="Assets\Scripts\Mono Classes\LevelEditor.cs" Line="2" Column="1" />
+      <File FileName="Assets\Scripts\Mono Classes\PlayerController.cs" Line="189" Column="19" />
+      <File FileName="Assets\Scripts\Mono Classes\WaveMaster.cs" Line="142" Column="3" />
+      <File FileName="Assets\Scripts\Game Classes\Level.cs" Line="42" Column="13" />
+      <File FileName="Assets\Scripts\Mono Classes\MainMenu.cs" Line="176" Column="4" />
+      <File FileName="Assets\Scripts\Mono Classes\PlayerHUD.cs" Line="22" Column="28" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

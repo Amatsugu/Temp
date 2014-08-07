@@ -1,5 +1,4 @@
 ﻿using UnityEngine;
-using System.IO;
 using System.Collections;
 using System.Collections.Generic;
 
@@ -39,7 +38,7 @@ public class LevelEditor : MonoBehaviour {
 		_controls = GameObject.Find("_GameRegistry").GetComponent<ControlMap>();
 		if(PlayerPrefs.GetString("editorMode") == "load")
 		{
-			if(!Load(PlayerPrefs.GetString("loadPath")))
+			if(_currentLevel.Load(PlayerPrefs.GetString("loadPath")))
 			{
 				_currentLevel.LevelName = PlayerPrefs.GetString("creating");
 				_currentLevel.Author = PlayerPrefs.GetString("name");
@@ -64,7 +63,7 @@ public class LevelEditor : MonoBehaviour {
 	// Update is called once per frame
 	void Update () 
 	{
-		if(Input.GetKeyDown(_controls.GetKey("Toggle Editor")))
+		if(_controls.GetKeyDown("Toggle Editor"))
 		{
 			_unitsWindow = !_unitsWindow;
 			if(_unitsWindow)
@@ -72,7 +71,7 @@ public class LevelEditor : MonoBehaviour {
 			else
 				_updatePointer = true;
 		}
-		if(Input.GetKeyDown(_controls.GetKey("Cancel")))
+		if(_controls.GetKeyDown("Cancel"))
 		{
 			_selectedUnit = -1;
 		}
@@ -220,13 +219,13 @@ public class LevelEditor : MonoBehaviour {
 		_currentLevel.LevelName = GUI.TextField(new Rect(left, top+((pad+lh)*1), width, lh), _currentLevel.LevelName);
 		if(GUI.Button(new Rect(left, top+((pad+lh)*2), width, lh), "Save"))
 		{
-			Save();
+			_currentLevel.Save();
 			_isSaving = false;
 			_updatePointer = true;
 		}
 		if(GUI.Button(new Rect(left, top+((pad+lh)*3), width, lh), "Save & Exit"))
 		{
-			Save();
+			_currentLevel.Save();
 			Application.LoadLevel(0);
 		}
 		if(GUI.Button(new Rect(left, top+((pad+lh)*4), width, lh), "Exit"))
@@ -234,35 +233,7 @@ public class LevelEditor : MonoBehaviour {
 			Application.LoadLevel(0);
 		}
 	}
-	bool Load(string path)
-	{
-		if(File.Exists(path))
-		{
-			_currentLevel.SetLevelData(File.ReadAllLines(path));
-			PlayerPrefs.SetString("editorMode","");
-			PlayerPrefs.SetString("loadPath","");
-			_thisWave = _currentLevel.Waves[_curWave];
-			_hasChanged = true;
-			return true;
-		}else
-			return false;
-	}
-	void Save()
-	{
-		string customDir = Application.dataPath+"/Levels/Custom/";
-		if(!Directory.Exists(customDir))
-		{
-			Directory.CreateDirectory(customDir);
-		}
-		string[] levelData = _currentLevel.GetLevelData();
-		StreamWriter levelFile = File.CreateText(customDir+_currentLevel.LevelName+".lvl");
-		foreach(string l in levelData)
-		{
-			levelFile.WriteLine(l);
-		}
-		levelFile.Flush();
-		levelFile.Close();
-	}
+	
 	void Editor(int ID)
 	{
 		float width = (Screen.width-60);

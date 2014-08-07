@@ -163,7 +163,7 @@ public class MainMenu : MonoBehaviour {
 		foreach(string f in files)
 		{
 			Level lvl = new Level();
-			if(lvl.SetLevelData(File.ReadAllLines(f)))
+			if(lvl.Load(f))
 				_customLevels.Add(lvl);
 		}
 		string mainDir = Application.dataPath+"/Levels/Main/";
@@ -175,7 +175,7 @@ public class MainMenu : MonoBehaviour {
 		foreach(string f in files)
 		{
 			Level lvl = new Level();
-			lvl.SetLevelData(File.ReadAllLines(f));
+			lvl.Load(f);
 			_mainLevels.Add(lvl);
 		}
 		_reload = false;
